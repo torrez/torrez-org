@@ -1,0 +1,38 @@
+.page-home {
+  .introduction {
+    margin-bottom: $padding-normal;
+    padding-bottom: $padding-normal;
+
+    @include breakpoint(full) {
+      margin-bottom: $padding-large;
+      padding-bottom: $padding-large;
+    }
+
+    border-bottom: $border;
+
+    color: $dark-gray;
+
+    a {
+      color: $link-color;
+
+      @include breakpoint(desktop) {
+        color: $dark-gray;
+      }
+    }
+
+    p {
+      line-height: 1.75;
+      margin: 0;
+    }
+
+    &:hover {
+      a {
+        color: $blue;
+
+        &:hover {
+          color: $link-hover-color;
+        }
+      }
+    }
+  }
+}

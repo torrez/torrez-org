@@ -1,0 +1,26 @@
+.site-header {
+  padding-bottom: $padding-normal;
+}
+
+.breadcrumb-navigation {
+  @include bulletless-lists;
+
+  li {
+    display: inline-block;
+    text-transform: lowercase;
+
+    &:after {
+      content: "/";
+      display: inline-block;
+      margin-left: 0.4em;
+    }
+
+    &:last-child:after {
+      content: "";
+    }
+  }
+
+  h1 {
+    display: inline;
+  }
+}

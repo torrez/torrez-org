@@ -1,0 +1,36 @@
+.page-archive {
+  h2 {
+    text-transform: lowercase;
+    font-size: $font-size-large;
+  }
+
+  h3 {
+    font-size: $font-size-normal;
+  }
+
+  @include bulletless-lists;
+
+  ul {
+    margin-top: 0.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  li {
+    display: flex;
+  }
+
+  time {
+    color: $dark-gray;
+    margin-right: 0.3rem;
+  }
+}
+
+.page-archive-categories {
+  time {
+    width: 92px;
+  }
+
+  a {
+    flex: 1;
+  }
+}

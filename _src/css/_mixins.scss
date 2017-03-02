@@ -1,0 +1,111 @@
+// Design and layout.
+@mixin has-margins {
+  display: flex;
+}
+
+@mixin layout-left-margin {
+  order: 1;
+
+  width: $left-margin-width;
+  margin-right: $left-margin-gutter;
+}
+
+@mixin layout-main {
+  order: 2;
+
+  flex: 1;
+}
+
+@mixin layout-right-margin {
+  order: 3;
+
+  width: $right-margin-width;
+  min-width: $right-margin-width;
+
+  margin-left: $right-margin-gutter;
+
+  font-size: $font-size-normal;
+  font-weight: normal;
+  color: $medium-gray;
+
+  a {
+    color: currentColor;
+  }
+}
+
+@mixin bulletless-lists {
+  ul,
+  li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+
+// Clearfix.
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+
+// Media queries.
+@mixin breakpoint($min: null, $max: null) {
+
+  // Fetch the right variables.
+  @if $min == null or $min == "0" {
+    $min: "none";
+  }
+  @else if $min == "full" {
+    $min: $breakpoint-full;
+  }
+  @else if $min == "margins-available" {
+    $min: $breakpoint-margins-available;
+  }
+  @else if $min == "desktop" {
+    $min: $breakpoint-desktop;
+  }
+  @else {
+    $min: $min;
+  }
+
+  @if $max == null or $max == "0" {
+    $max: "none";
+  }
+  @else if $max == "full" {
+    $max: $breakpoint-full;
+  }
+  @else if $max == "margins-available" {
+    $max: $breakpoint-margins-available;
+  }
+  @else if $max == "desktop" {
+    $max: $breakpoint-desktop;
+  }
+  @else {
+    $max: $max;
+  }
+
+  // Build the right query.
+  @if $min == "none" {
+    @media (max-width: $max) {
+      @content;
+    }
+  }
+
+  @else if $max == "none" {
+    @media (min-width: $min) {
+      @content;
+    }
+  }
+
+  @else {
+    @media (min-width: $min) and (max-width: $max) {
+      @content;
+    }
+  }
+}
+

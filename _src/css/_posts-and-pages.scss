@@ -1,0 +1,25 @@
+.post,
+.page {
+  padding-top: $padding-normal;
+  padding-bottom: $padding-normal;
+
+  border-top: $border;
+
+  &:first-child {
+    padding-top: 0;
+    border-top: 0;
+  }
+
+  &:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+}
+
+.posts-list {
+  margin-bottom: -$padding-normal;
+
+  .post-footer {
+    display: none;
+  }
+}

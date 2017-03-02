@@ -1,0 +1,54 @@
+{% comment %}
+<!--
+
+If this layout is being included in the homepage's `for post in site.posts`
+loop, assign the already-Markdown-formatted `post.content` variable to
+`content`.
+
+If this layout is being included in the single-post page, the `content` variable
+by itself will automatically pull in the Markdown-processed post content.)
+
+If this is a single-post page, assign the `page` variable to `post`, since that
+makes more sense and allows this template to more easily be shared with the
+homepage's `for post in site.posts` loop.
+
+-->
+{% endcomment %}
+
+{% if post %}
+  {% assign content = post.content | markdownify %}
+{% elsif page %}
+  {% assign post = page %}
+{% endif %}
+
+<div class="post">
+
+  <div class="post-category-icon category-icon">{% if post.category %}<a href="{{ "/" | prepend: site.baseurl }}{{ post.category | slugify  }}/"><div class="icon icon-category-{{ post.category | slugify }}">{% include svg/category-{{ post.category | slugify }}.svg %}</div></a>{% endif %}</div><!--
+
+--><div class="post-date">
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+      <span class="post-date-weekday">{{ post.date | date: "%A" }}</span><!--
+   --><span class="post-date-comma">, </span><!--
+   --><span class="post-date-full">{{ post.date | date: "%b %-d, %Y" }}
+    </a>
+  </div>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
+
+<footer class="post-footer">
+  <h2>navigation</h2>
+  <div class="post-navigation">
+    {% if page.previous.url %}
+      <p class="previous-post-link">before this i wrote <a href="{{page.previous.url}}">{{page.previous.title}}</a></p><!--
+ -->{% endif %}<!--
+ -->{% if page.previous.url and page.next.url %}. {% endif %}
+    {% if page.next.url %}
+      <p class="next-post-link">after this i wrote <a href="{{page.next.url}}">{{page.next.title}}</a></p><!--
+ -->{% endif %}<!--
+ -->{% if page.previous.url and page.next.url %}.{% endif %}
+  </div>
+</footer>

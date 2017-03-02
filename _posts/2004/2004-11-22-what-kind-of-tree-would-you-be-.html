@@ -1,0 +1,38 @@
+---
+title: What Kind Of Tree Would You Be?
+category: Web/Tech
+---
+<p>
+I had a new idea for a way of representing a weblog in a tree format. Rather than a linear, post-post-post fashion, there can be parallel "branches" splitting and re-joining. If I feel like posting links for a few days, it doesn't drive everything down below the fold, and if I have a side project I want to document for a few days, I don't have to start a new blog on a different page. Instead a line would split off the main 'trunk' and progress northward like a regular weblog.
+</p>
+<p>
+I've been thinking about solutions for the back-end data, and at first I thought I could solve the problem with a parent-child type database-something like a message board turned on its side:
+</p>
+<pre>
+----------
+  ----------
+  ----------
+  ----------
+    ----------
+    ----------
+  ----------
+</pre>
+<p>
+Becomes:
+</p>
+<pre>
+      ||
+    |||||
+    |||||
+   ||||||
+   |||  |
+   |
+   |
+</pre>
+<p>
+But now I'm thinking if I could just make an association between blog_id's, every time I have a new branch I'd just start a new blog and specify one blog_id as the parent to another. Upon closing out a weblog, I'd just represent a folding in, similar to a CVS branch rolling into the main trunk.
+</p>
+<p>
+I'm not as concerned with the back-end as much as rendering the front end. I'll have to have an intermediate "data cooking" step before printing it to the page that builds a nested array. Displaying small windows of data (e.g., month of June) means I'll have to do something tricky, I just don't know what.
+</p>
+

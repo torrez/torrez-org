@@ -1,0 +1,10 @@
+---
+title: Home
+regenerate: true
+---
+
+<div class="posts-list">
+  {% for post in site.posts limit:10 %}
+    {% include post.html %}
+  {% endfor %}
+</div>

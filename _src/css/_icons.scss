@@ -1,0 +1,163 @@
+.icon {
+  display: inline-block;
+  line-height: 1;
+  vertical-align: -25%;
+  width: $icon-width;
+  height: $icon-width;
+  fill: currentColor;
+
+  svg {
+    fill: inherit;
+    width: inherit;
+    height: inherit;
+  }
+}
+
+.category-icon {
+  a {
+    display: block;
+    z-index: 2;
+  }
+
+  svg {
+    circle:first-child {
+      fill: whatever;
+    }
+  }
+
+  .icon.icon-category-apple svg {
+    //
+  }
+
+  .icon.icon-category-art svg {
+    //
+  }
+
+  .icon.icon-category-books svg {
+    //
+  }
+
+  .icon.icon-category-charts svg {
+    //
+  }
+
+  .icon.icon-category-city-life svg {
+    //
+  }
+
+  .icon.icon-category-comics svg {
+    //
+  }
+
+  .icon.icon-category-computers svg {
+    //
+  }
+
+  .icon.icon-category-consumerism svg {
+    //
+  }
+
+  .icon.icon-category-current-affairs svg {
+    //
+  }
+
+  .icon.icon-category-del-icio-us svg {
+    //
+  }
+
+  .icon.icon-category-design svg {
+    //
+  }
+
+  .icon.icon-category-engineering svg {
+    //
+  }
+
+  .icon.icon-category-experiments svg {
+    //
+  }
+
+  .icon.icon-category-favorites svg {
+    //
+  }
+
+  .icon.icon-category-film svg {
+    //
+  }
+
+  .icon.icon-category-food-and-drink svg {
+    //
+  }
+
+  .icon.icon-category-gadgets svg {
+    //
+  }
+
+  .icon.icon-category-games svg {
+    //
+  }
+
+  .icon.icon-category-hacking svg {
+    //
+  }
+
+  .icon.icon-category-home svg {
+    //
+  }
+
+  .icon.icon-category-idea svg {
+    //
+  }
+
+  .icon.icon-category-music svg {
+    //
+  }
+
+  .icon.icon-category-phone svg {
+    //
+  }
+
+  .icon.icon-category-politics svg {
+    //
+  }
+
+  .icon.icon-category-projects svg {
+    //
+  }
+
+  .icon.icon-category-religion svg {
+    //
+  }
+
+  .icon.icon-category-science svg {
+    //
+  }
+
+  .icon.icon-category-spam svg {
+    //
+  }
+
+  .icon.icon-category-sports svg {
+    //
+  }
+
+  .icon.icon-category-television svg {
+    //
+  }
+
+  .icon.icon-category-travel svg {
+    //
+  }
+
+  .icon.icon-category-web-tech svg {
+    //
+  }
+
+  .icon.icon-category-weblogs svg {
+    //
+  }
+
+  .icon.icon-category-work svg {
+    //
+  }
+}

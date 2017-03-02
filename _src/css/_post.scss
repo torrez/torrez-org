@@ -1,0 +1,118 @@
+// Layout
+@include breakpoint(margins-available) {
+  .post {
+    @include has-margins;
+  }
+  .post-category-icon {
+    @include layout-left-margin;
+  }
+  .post-content {
+    @include layout-main;
+  }
+  .post-date {
+    @include layout-right-margin;
+  }
+}
+
+// Design
+.post {
+  //
+}
+
+.post-category-icon {
+  @include breakpoint(0, margins-available) {
+    display: inline-block;
+    vertical-align: middle;
+
+    a {
+      margin-right: 0.9em;
+    }
+  }
+
+  @include breakpoint(margins-available) {
+    margin-top: 5px;
+  }
+}
+
+.post-date {
+  font-family: $monospace-font;
+  font-size: $font-size-small;
+
+  a {
+    font-weight: normal;
+  }
+
+  @include breakpoint(0, margins-available) {
+    display: inline-block;
+    font-size: $font-size-normal;
+
+    a {
+      color: $dark-gray;
+    }
+  }
+
+  @include breakpoint(margins-available) {
+    padding-top: 2px;
+
+    .post-date-weekday {
+      display: block;
+    }
+
+    .post-date-comma {
+      display: none;
+    }
+  }
+}
+
+.post-content {
+  @include breakpoint(0, margins-available) {
+    clear: left;
+    margin-top: $padding-small;
+  }
+
+  img,
+  embed,
+  iframe,
+   {
+    display: block;
+    margin: $gutter*2 auto !important;
+    max-width: 100%;
+  }
+
+  .twitter-tweet {
+    width: auto !important;
+  }
+
+  img {
+    height: auto;
+  }
+}
+
+.post-footer {
+  @include has-margins;
+
+  h2 {
+    @include layout-right-margin;
+
+    @include breakpoint(0, margins-available) {
+      display: none;
+    }
+  }
+
+  div {
+    @include layout-main;
+  }
+
+  margin-bottom: -($padding-normal * 0.2);
+  padding-top: $padding-normal;
+
+  border-top: $border;
+
+  p {
+    display: inline;
+  }
+
+  a {
+    text-transform: lowercase;
+  }
+}

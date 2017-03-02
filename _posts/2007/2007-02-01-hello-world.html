@@ -1,0 +1,37 @@
+---
+title: Hello, World
+category: Experiments
+---
+<p>My first <a href="http://arduino.cc/">Arduino</a> project is pretty simple.</p>
+
+<p>Here's the video:</p>
+
+<p><object width="425" height="350"><param value="http://www.youtube.com/v/LksGwjNsxZo" name="movie" /><param value="transparent" name="wmode" /><embed width="425" height="350" wmode="transparent" type="application/x-shockwave-flash" src="http://www.youtube.com/v/LksGwjNsxZo"></embed></object>
+</p>
+<p>
+Here's the source:
+</p>
+<pre>
+int ledPin1 = 13;
+int ledPin2 = 12;
+
+void setup()
+{
+  pinMode(ledPin1, OUTPUT);
+  pinMode(ledPin2, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(ledPin1, HIGH);
+  digitalWrite(ledPin2, LOW);
+  delay(500);
+  digitalWrite(ledPin2, HIGH);
+  digitalWrite(ledPin1, LOW);
+  delay(500);
+}
+</pre>
+<p>
+Ain't open source grand?
+</p>
+

@@ -1,0 +1,102 @@
+// Layout
+$gutter: 10px;
+
+$padding-large:  $gutter * 3;
+$padding-normal: $gutter * 2;
+$padding-small:  $padding-normal/3;
+$padding-tiny:   $padding-normal/4;
+
+$icon-width: 32px;
+
+
+// Responsive Breakpoints
+$site-padding: $gutter * 2;
+
+$content-max-width: 620px;
+
+$left-margin-gutter:  $gutter*1.5;
+$left-margin-width:   $icon-width;
+
+$right-margin-gutter: $gutter * 2;
+$right-margin-width:  130px;
+
+$site-max-width: $content-max-width + ($site-padding * 2);
+
+//// `full`
+//// 660px (20 + 620 + 20)
+//// When the maximum content width has been reached (when the content is no
+//// longer just fitting to the size of the window).
+$breakpoint-full: $site-max-width;
+
+//// `margins-available`
+//// 854px (20 + 34 + 10 + 620 + 20 + 130 + 20)
+//// When icons can fit in the margins.
+$breakpoint-margins-available: $content-max-width;
+
+//// `desktop`
+//// 1025px
+//// When we can expect hover events on links, et cetera. One pixel after a
+//// tablet in landscape mode.
+$breakpoint-desktop: 1025px;
+
+
+// Fonts
+$heading-font:   Verdana, Arial, sans-serif;
+$body-font:      Verdana, Arial, sans-serif;
+$monospace-font: Menlo, Monaco, Courier New, Courier, monospace;
+
+$font-size-tiny:          9px;
+$font-size-small:        11px;
+$font-size-normal:       13px;
+$font-size-large:        16px;
+$font-size-subheading:   18px;
+$font-size-heading:      20px;
+$font-size-site-heading: 32px;
+
+$line-height: 1.6;
+
+
+// Colors
+$blue:         #004d85;
+$light-blue:   lighten($blue, 15%);
+$orange:       #ff533a;
+
+$black:        #333;
+
+$darker-gray:  #666;
+$dark-gray:    #888;
+$medium-gray:  #bbb;
+$light-gray:   #eee;
+
+$body-font-color:    $black;
+$heading-font-color: $black;
+
+$link-color:         $blue;
+$link-hover-color:   $blue;
+
+$border-color: #afafaf;
+
+
+// Design
+$border: 1px dotted $border-color;
+
+
+// Includes
+@import "normalize";
+@import "mixins";
+
+@import "base";
+@import "layout";
+@import "icons";
+
+@import "header";
+@import "footer";
+
+@import "posts-and-pages";
+
+@import "post";
+
+@import "page-home";
+@import "page-about";
+
+@import "archive";

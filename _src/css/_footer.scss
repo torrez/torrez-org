@@ -1,0 +1,25 @@
+ .site-footer {
+  @include has-margins;
+
+  h2 {
+    @include layout-right-margin;
+  }
+
+  div {
+    @include layout-main;
+  }
+
+  margin-top: $padding-normal;
+  padding-top: $padding-normal;
+  border-top: $border;
+
+  margin-bottom: $padding-normal;
+  padding-bottom: $padding-normal;
+  border-bottom: $border;
+
+  @include breakpoint(0, margins-available) {
+    h2 {
+      display: none
+    }
+  }
+}
