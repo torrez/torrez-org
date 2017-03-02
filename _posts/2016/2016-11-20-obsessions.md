@@ -1,6 +1,0 @@
-----
-title: Obsessions
-category: weblogs
-----
-
-
