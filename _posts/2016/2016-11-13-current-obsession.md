@@ -1,6 +1,8 @@
 ---
 title: The Current Obsession
-category: City Life
+date: 2016-11-13 00:00:00 -08:00
+categories:
+- City Life
 ---
 
 Off: Twitter

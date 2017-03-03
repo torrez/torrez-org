@@ -1,6 +1,8 @@
 ---
 title: Out of a Dome!
-category: Sports
+date: 2016-11-13 00:00:00 -08:00
+categories:
+- Sports
 ---
 
 Watch Shohei Ohtani hit a ball out of a dome!

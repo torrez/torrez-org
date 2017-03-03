@@ -1,6 +1,8 @@
 ---
 title: Chickadee House
-category: Art
+date: 2016-11-18 00:00:00 -08:00
+categories:
+- Art
 ---
 
 <img src="http://i.imgur.com/uoDtyWA.jpg">

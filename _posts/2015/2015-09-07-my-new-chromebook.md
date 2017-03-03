@@ -1,7 +1,8 @@
 ---
-title:    "My New Chromebook"
-date:     2015-09-07T14:50:08-07:00
-category: Computers
+title: My New Chromebook
+date: 2015-09-07 14:50:08 -07:00
+categories:
+- Computers
 ---
 
 First thoughts using this Chromebook Pixel: I like it. I like it a lot.

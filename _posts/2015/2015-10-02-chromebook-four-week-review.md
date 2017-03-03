@@ -1,7 +1,8 @@
 ---
-title:    "My New Chromebook Pixel Has Replaced My Macbook Pro"
-date:     2015-10-02T08:49:47-07:00
-category: Computers
+title: My New Chromebook Pixel Has Replaced My Macbook Pro
+date: 2015-10-02 08:49:47 -07:00
+categories:
+- Computers
 ---
 
 Four weeks into using my [Chromebook Pixel](https://www.google.com/chromebook/pixel/) and it is very likely I will never use a Macbook Pro as a full-time laptop again. While I won&apos;t say I&apos;ll never use _OS X_ again, I can&apos;t see myself choosing it over Chrome OS for nearly every thing I need to do.

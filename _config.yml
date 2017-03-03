@@ -1,56 +1,23 @@
-# Site Settings.
-title:       torrez.org
-description: A weblog by Andre Torrez.
-author:      Andre Torrez
-baseurl:     ''
-url:         localhost
-permalink:   /:year/:month/:title/
-
-# Personal Settings.
-twitter_username:      torrez
-twitter_blog_username: andre_torrez
-github_username:       torrez
-email_address:         andre@torrez.org
-
-
-# --- #
-
-
-# Jekyll Build Settings.
-# Don't include these files and directories when building the site.
-exclude: [
-  '_site',
-  'Gemfile',
-  'Gemfile.lock',
-  'Gruntfile.js',
-  'node_modules',
-  'package.json',
-  'README.md',
-  '.deploy',
-  '.git',
-  '.grunt',
-  '.sass-cache',
-  '.tmp'
-]
-
-# YAML Front Matter Defaults.
-# These settings will set the YAML front matter for all pages and posts. This
-# allows us to not have to set `layout: [page\post]` on each page and post.
+---
+title: torrez.org
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
--
-  scope:
-    type: 'pages'
+- scope:
+    path: ''
+    type: pages
   values:
-    layout: 'page'
+    layout: page
     is_page: true
--
-  scope:
-    type: 'posts'
+- scope:
+    path: ''
+    type: posts
   values:
-    layout: 'post'
+    layout: post
     is_post: true
-
-# Enable Git-Flavored Markdown.
-# Kramdown is the default Markdown renderer.
-kramdown:
-  input: GFM

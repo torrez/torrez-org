@@ -1,7 +1,8 @@
 ---
-title: "Even Weblogs Get the Blues"
-date: 2015-05-31T17:35:59-07:00
-category: Weblogs
+title: Even Weblogs Get the Blues
+date: 2015-05-31 17:35:59 -07:00
+categories:
+- Weblogs
 ---
 
 **HEY**, hi, it’s me and I am back. First I want to thank [Matthew McVickar](http://matthewmcvickar.com/) for getting all of this back into one location on one installation (not dungeon! :cry:) but a very good amalgamation of tools that map to what I wanted dungeon to be. I just didn’t have time to be taking on a project like that because…
