@@ -1,2 +1,2 @@
 # torrez-org
-The repo that drives the Siteleaf site
+The repo that drives the Siteleaf site.
