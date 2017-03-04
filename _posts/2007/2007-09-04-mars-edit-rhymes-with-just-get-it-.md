@@ -1,0 +1,8 @@
+---
+title: '"mars edit" rhymes with "just get it".'
+date: 2007-09-04 00:00:00 -07:00
+categories:
+- Favorites
+---
+
+<p>Red Sweater Software just released a <a href="http://www.red-sweater.com/marsedit/">2.0 of MarsEdit</a>. It's easily one of my favorite apps on the Mac. If you contribute to a blog or several blogs and want a unified, client-side editor you need to get MarsEdit. </p>

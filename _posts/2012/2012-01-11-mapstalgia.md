@@ -1,0 +1,10 @@
+---
+title: Mapstalgia
+date: 2012-01-11 00:00:00 -08:00
+categories:
+- Games
+---
+
+<p><a href="http://mapstalgia.tumblr.com/">Mapstalgia is a collection of video game maps</a> drawn from memory.</p>
+
+<p>[via <a href="http://mlkshk.com/p/BC8Z">MLKSHK</a>]</p>

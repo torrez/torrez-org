@@ -1,0 +1,10 @@
+---
+title: Enjoymentland dot com
+date: 2009-05-14 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p><a href="http://enjoymentland.com/2009/05/14/leaving-robot-coop/">Buster is leaving The Robot Co-Op to start his own company called Enjoymentland</a>. <a href="http://bit.ly/locavoreapp">Locavore</a>, his first product, is an excellent example of what iPhones apps can be.</p>
+
+<p>Side note: my favorite review of of the app gave it three stars commenting on how there was nothing in season in Phoenix, Arizona, the most arid city in the United States. This is where Keenen Ivory Wayans would <a href="http://www.moviewavs.com/php/sounds/?id=bst&amp;media=WAVS&amp;type=Movies&amp;movie=Dont_Be_A_Menace_To_South_Central_While_Drinking_Your_Juice_In_The_Hood&amp;quote=message.txt&amp;file=message.wav">jump in and say "Message!"</a>.</p>

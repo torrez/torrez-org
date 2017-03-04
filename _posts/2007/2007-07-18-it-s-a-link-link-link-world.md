@@ -1,0 +1,23 @@
+---
+title: It's A Link, Link, Link World
+date: 2007-07-18 00:00:00 -07:00
+categories:
+- del.icio.us
+---
+
+<p>You'll notice I have a slight advertising/marketing bent in things I link. I like companies, their brands, and how companies use their brands to interact with their customers or potential customers. I hate advertising without focus. I am not a fan of pretty much any contextual or behavioral schemes I see day-to-day. </p>
+
+<p>There are two advertising campaigns right now that I keep running into on the web. The  "<a href="http://en.wikipedia.org/wiki/Cloverfield">Cloverfield</a>" <a href="http://www.1-18-08.com/">viral marketing campaign</a>, and the fun and far-reaching campaign revolving around the Simpsons' movie. Below I have a link to a story about the <a href="http://redcarpetfashionawards.blogspot.com/2007/07/linda-evangelista-and-simpsons-do-paris.html">Simpsons appearing in Harper's Bazaar</a>, and no doubt you've heard of the <a href="http://www.flickr.com/photos/rdr07/sets/72157600590001691/">Simpons/7-11 Kwik-E-Mart</a> project in which 7-11 stores were converted to Kwik-E-Marts as seen on the Simpsons' TV Show.</p>
+
+<p>I like both of these because they took effort and it shows (though the jury is still out on whether Cloverfield is <a href="http://www.montyfood.com/2007/07/1-18-08-aka-cloverfield-aka-slusho.html">masterfully architected or entirely botched</a>. Paramount goons are throwing around C+Ds <a href="http://www.montyfood.com/2007/07/1-18-08cloverfieldslusho-update.html">everywhere I look</a>). </p>
+
+<p>Everyone lauds the death of print media, traditional publishing paradigms, the music industry, DRM...but I'm most happy to see the death of rewarding advertisers for shitty, thoughtless campaigns. I think it's something we've all known for a while: treat your customers to something engaging and they'll reward you with an appearance in their link list and possibly a ticket to your movie.</p>
+
+<ul>
+    <li><a href="http://redcarpetfashionawards.blogspot.com/2007/07/linda-evangelista-and-simpsons-do-paris.html">Red Carpet Style Awards: Linda Evangelista and The Simpsons do Paris</a> - Has there been a more tasteful, clever, far reaching movie premiere campaign that has topped what the agency for Simpsons have done?</li>
+    <li><a href="http://obsessiveconsumption.typepad.com/">What Did You Buy Today?</a> - I am a big fan and a subscriber.</li>
+    <li><a href="http://arstechnica.com/news.ars/post/20070717-microsoft-patents-the-mother-of-all-adware-systems.html">Microsoft patents the mother of all adware systems</a> - I dislike behavioral targeting. Luckily I can do something about it...</li>
+    <li><a href="http://nedward.org/delicious.html">del.icio.us/nedward/little_help</a> - Nice job. I love that &quot;post entry&quot; bit.</li>
+    <li><a href="http://globalnerdy.com/2007/07/18/laws-of-software-development/">Global Nerdy &raquo; Blog Archive &raquo; Laws of Software Development</a> - Global Nerdy is so good. Subscribe!</li>
+    <li><a href="http://globalnerdy.com/2007/07/18/3d-mailbox/">Global Nerdy &raquo; Blog Archive &raquo; 3D Mailbox: You&rsquo;re Kidding, Right?</a> - I was waiting for this to turn into an <a href="http://www.youtube.com/watch?v=td4VEGiIQmk">E*Trade commercial</a>.</li>
+</ul>

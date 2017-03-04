@@ -1,0 +1,19 @@
+---
+title: you've stumbled onto the friday link fest!
+date: 2007-09-28 00:00:00 -07:00
+categories:
+- del.icio.us
+---
+
+<p>Today is such a dreary day in Sausalito, the clouds have rolled in and there are intermittent showers&mdash;I love it. It's perfect weather for being indoors today. </p>
+
+<p>Here's some links:</p>
+
+<ul>
+<li><a href="http://www.caterina.net/archive/001078.html">Caterina.net: Reddest blush at the TechCrunch 40 yesterday</a> - Yipes.</li>
+    <li><a href="http://www.petebevin.com/archives/signals.html">Hand Signals</a> - Laugh Out Loud. Found on <a href="http://flickr.com/photos/factoryjoe/1454342618/">FactoryJoe</a></li>
+    <li><a href="http://www.unsecureflight.com/request.html">UnSecureFlight.com :: Read Your Own DHS Travel Dossier</a> - Found on <a href="http://justinsomnia.org/">Justinsomnia</a></li>
+    <li><a href="http://www.pigsflycd.com/">When Pigs Fly - Songs You Never Thought You'd Hear....Outrageous cover versions recorded exclusively for this album!</a> - I can barely believe this exists. Former Kent State students Devo doing CSN+Y's "Ohio" has to take the cake though. Found on <a href="http://coudal.com/">Coudal</a></li>
+    <li><a href="http://www.bestofneworleans.com/dispatch/2005-06-14/cover_story.php">Gambit Weekly : Name That Tune : June 14, 2005</a> - I love these American stories.</li>
+    <li><a href="http://news.yahoo.com/s/ap/20070925/ap_on_go_ot/fake_news_fine_1">FCC proposes 'fake news' fine - Yahoo! News</a> - $4,000 sounds like a tax.</li>
+</ul>

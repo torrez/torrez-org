@@ -1,0 +1,16 @@
+---
+title: A few random links to things that belong in a larger post I need to write
+date: 2013-02-05 00:00:00 -08:00
+categories:
+- Web/Tech
+---
+
+<p>I am shuffling some ideas around in my head but I wanted to put down all the elements before I forget about it. I might revisit when I can form a better post. You might find some of these links interesting.</p>
+
+<ol>
+<li>A very good conversation is starting <a href="http://branch.com/b/personal-biases-good-or-bad-for-social-product-design">here on this Branch</a> about how to design your projects. It was interesting because the first two respondents are his investors and advisors who also have a lot of experience with the questions. (Unrelatedly there are neat things going on in the UI with Branch.)</li>
+<li>I tweeted a quote and link to <a href="https://twitter.com/jbouie">@jbouie</a>’s post about <a href="http://jamellebouie.net/blog/2013/2/3/and-read-all-over">tech writing</a>. But I think the sentence I quoted: “An implicit network, not overt racism, keeps tech writing dominated by white men” goes beyond tech writing and beyond “white men”. There is a lot in there.</li>
+<li>This story from AVC where <a href="http://www.avc.com/a_vc/2011/03/airbnb.html">Fred misses the point</a> of Airbnb because they can’t identify with the need for sleeping on people’s floors.</li>
+<li>Did you know Path was hit with an <a href="http://techcrunch.com/2013/02/01/path-settles-with-ftc-over-privacy-row-will-pay-800k-and-establish-new-privacy-program-including-outside-audits/">$800,000 fine</a> for collecting people’s address books without their consent?</li>
+<li><a href="http://www.mtvhive.com/2013/01/16/the-only-black-guy-at-the-indie-rock-show/">The Only Black Guy at the Indie Rock Show</a></li>
+</ol>

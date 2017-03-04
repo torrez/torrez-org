@@ -1,0 +1,13 @@
+---
+title: If I Only Had Backups...
+date: 2004-07-11 00:00:00 -07:00
+categories:
+- Games
+---
+
+<p>
+Before the weekend started I realized I had lost my GameBoy Advance and about six games. I replaced the GBA with a new <a href="http://www.gadgetmadness.com/archives/20040605-gba_advance_classic_nes_limited_edition_review_gratuitous_photo_shoot.php">Classic NES styled</a> one and Final Fantasy Tactics to get me started.
+</p>
+<p>
+I just ordered a <a href="http://www.gameboy-advance.net/flash_linker/gba_flash_linker.htm">GBA linker</a> so that I can make backups of all my games in the future. This also, of course, gives me the ability to download games from the Internet to my GBA and play them for free. I probably will do it.
+</p>

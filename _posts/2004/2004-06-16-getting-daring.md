@@ -1,0 +1,17 @@
+---
+title: Getting Daring
+date: 2004-06-16 00:00:00 -07:00
+---
+
+<p>
+So it's probably no secret that I'm trying different ways of making money on the web. I'm actively working on several projects, I'm putting advertisments on <a href="http://www.dropload.com/">dropload</a>, as well as here (partly just to see how the system works, partly to pay for a newspaper one Sunday a month).
+</p>
+<p>
+Most of my ideas involve Amazon (unfortunately) or subscriptions  (unfortunately) or that idealistic free-until-later web application idea that only works in every programmers brain and rarely anywhere else.
+</p>
+<p>
+<a href="http://daringfireball.net/2004/06/something_daring">Jon Gruber is trying something, too</a>&#8212;I was one of the first to jump at it and I love the unique RSS url I received for signing up. There's an idea right there for an MT plugin: unique RSS feed keys and reports. Or for a whole business providing reporting and syndication subscriptions for content providers.
+</p>
+<p>
+The problem I think for me is that the ideas come pretty fast and furious. 95% suck and 5% slightly suck. I really need to work on polishing that 5% and getting behind it enough to put myself out there and not be afraid to fail.
+</p>

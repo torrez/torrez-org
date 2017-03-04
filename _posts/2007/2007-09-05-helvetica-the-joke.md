@@ -1,0 +1,10 @@
+---
+title: helvetica the joke
+date: 2007-09-05 00:00:00 -07:00
+categories:
+- Design
+---
+
+<p>You've seen <a href="http://www.helveticafilm.com/">the movie</a>, now <a href="http://helveticatheshirt.com/">own the shirt</a>. </p>
+
+<p>Also: <a href="http://arialfilm.com/">do not want</a>.</p>

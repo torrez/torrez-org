@@ -1,0 +1,63 @@
+---
+title: Using the Django ORM outside of Django (1.3)
+date: 2011-11-15 00:00:00 -08:00
+categories:
+- Engineering
+---
+
+<p>I did this today. I thought I’d write it up so I can remember for next time. </p>
+
+<p>I’m working on another project using Django and have liked using the ORM more than any other of the big Python ORMs out there. On <a href="http://mlkshk.com/">MLKSHK</a> we use the beloved FlyingCow, one that we (Ivan) wrote, but when working for clients I like to use as much existing, tested code out there as possible.</p>
+
+<p>First, create a new directory in the root of your project. Throw two files in there: __init__.py and models.py.</p>
+
+<p>Next, create a settings.py file in your project, fill in the necessary stuff for your database and for INSTALLED_APPS include the name of the directory you made. In this case I made a directory/module called “orm”.</p>
+
+<pre>
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
+    }
+}
+
+INSTALLED_APPS = (
+    'orm',
+)
+</pre>
+
+<p>Now create your models in models.py. Note the Meta class. </p>
+
+<pre>
+from django.db import models
+
+class Doink(models.Model):
+    name = models.CharField(max_length=25, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    class Meta:
+        db_table = u'doink'
+        app_label= u'orm'
+</pre>
+
+<p>The first attribute: <pre>db_table</pre> is self-explanatory, but <pre>app_label</pre> is there to help Django know this is part of the orm package. Normally it would infer this from the module it lived in inside of Django but since we’re not in Django it breaks without it.</p>
+
+<p>Last thing you need to do is set the DJANGO_SETTINGS_MODULE environment variable:</p>
+
+<pre>
+export DJANGO_SETTINGS_MODULE=settings
+</pre>
+
+<p>You can now run <pre>django-admin.py syncdb  --pythonpath=.</pre> and your models will be created.</p>
+
+<p>In your code, use your models like normal:</p>
+
+<pre>
+from orm.models import Doink
+Doink.objects.all()
+</pre>
+
+<p>Doink will now work like any other Django model.</p>

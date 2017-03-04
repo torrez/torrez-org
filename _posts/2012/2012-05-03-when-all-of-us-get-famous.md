@@ -1,0 +1,16 @@
+---
+title: When All of Us Get Famous
+date: 2012-05-03 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p>I can’t really add too much context to why I had to listen to this song this morning. I can only say it was while waiting for a car to take me to a conversation about startups. I had to listen to this song so bad I broke my “only 2012 music” project. </p>
+
+<p>Needless to say: if you have Rdio you should hear it. If you can find it someplace else I think you should hear it.</p>
+
+<iframe width="400" height="80" src="http://rd.io/i/QF0jK1JkNw" frameborder="0"></iframe>
+
+<p>It’s just a brutally honest song about trying and failing and trying again.</p>
+
+<p>The song is ten years old. <a href="http://dakotasmith.org/">Dakota</a> shared it with me back in the days when he was putting out a song every couple of weeks. I was writing on my weblog and shipping code left and right. Then something happened and it’s ten years later and I am waiting for a car to take me to a conversation about startups.</p>

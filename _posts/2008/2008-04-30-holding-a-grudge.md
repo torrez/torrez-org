@@ -1,0 +1,10 @@
+---
+title: Holding A Grudge
+date: 2008-04-30 00:00:00 -07:00
+categories:
+- Politics
+---
+
+<p>Poor Abe still can't catch a break. <a href="http://shirt.woot.com/Forums/ViewPost.aspx?PostID=2139613">This shirt celebrating President Lincoln and his Gettysburg Address</a> did not do so well in the former Confederate States of America.</p>
+
+<p>I love the stats feature on Woot and I want one of these shirts.</p>

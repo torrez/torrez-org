@@ -1,0 +1,6 @@
+---
+title: Dance As If No One Is Looking
+date: 2005-02-01 00:00:00 -08:00
+---
+
+<p><a href="http://torrez.typepad.com/.shared/image.html?/photos/uncategorized/dance_2.jpg" onclick="window.open(this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img width="200" height="150" border="0" alt="Dance_2" title="Dance_2" src="http://notes.torrez.org/images/dance_2.jpg" style="margin: 0px 0px 5px 5px; float: right;" /></a>But at least consider the Internet.</p>

@@ -1,0 +1,10 @@
+---
+title: cory doctorow on weblogs
+date: 2007-09-06 00:00:00 -07:00
+categories:
+- Weblogs
+---
+
+<p><a href="http://www.thomascrampton.com/2007/09/06/how-to-be-an-uber-blogger-by-cory-doctorow/">Cory Doctorow gives some advice on how to write a weblog</a>. I think the underlying message is be mindful of your reader when you write anything. Which is solid advice.</p>
+
+<p>Since the titles of my posts are hidden in my new design, I decided to get really clever with them. Cory reminded me why this is a bad idea and I've decided to go back to more friendly ones that get to the point. I forgot about RSS readers and the titles are only really funny if you've already read the post.</p>

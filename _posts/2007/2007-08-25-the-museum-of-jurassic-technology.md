@@ -1,0 +1,8 @@
+---
+title: the museum of jurassic technology
+date: 2007-08-25 00:00:00 -07:00
+categories:
+- Books
+---
+
+<p>I did not know there was <a href="http://www.amazon.com/Mr-Wilsons-Cabinet-Wonder-Jurassic/dp/0679764895/andretorrez-20">a book</a> about <a href="http://en.wikipedia.org/wiki/Museum_of_Jurassic_Technology">The Museum of Jurassic Technology</a> in Los Angeles. Though, if you really want to experience the <a href="http://www.mjt.org/">museum</a> as intended, I think you should visit first, skipping the Wikipedia page I linked to.</p>

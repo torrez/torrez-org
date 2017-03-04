@@ -1,0 +1,11 @@
+---
+title: Two Inch Radius
+date: 2004-04-12 00:00:00 -07:00
+---
+
+<p>
+Last night on the Sopranos Paulie uttered his best line yet, "Why does shittin', pissin', and fuckin' all happen within a two inch radius?"
+</p>
+<p>
+Dooce has a great post today concerning the <a href="http://www.dooce.com/archives/daily/04_11_2004.html">two inch radius</a>.
+</p>

@@ -1,0 +1,8 @@
+---
+title: The Combinations Rule
+date: 2008-04-18 00:00:00 -07:00
+categories:
+- Idea
+---
+
+<p><a href="http://log.scifihifi.com/post/32143890">This is my philosphy</a>. I don't have much more to add to it. Buzz has a bit more to say on it so I'll just link there.</p>

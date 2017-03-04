@@ -1,0 +1,10 @@
+---
+title: Worth A Shot
+date: 2004-10-14 00:00:00 -07:00
+categories:
+- Food and Drink
+---
+
+<p>
+Get a <a href="http://clients.z57.com/servlets/basic.OraclePassalong?applyTo=clients/merchant/process_pp.zml&USERS=hotdog&TYPE=WEBOFFER&ADCODE=mbday&FIND=&template=clients.z57.com/merchant/hotdog/templates/pp.zt">Free Hotdog On A Stick</a>
+</p>

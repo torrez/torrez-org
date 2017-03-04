@@ -1,0 +1,12 @@
+---
+title: prince does the unpredictable
+date: 2007-09-13 00:00:00 -07:00
+categories:
+- Music
+---
+
+<p><a href="http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/13/nprince113.xml">Prince decides to go Metallica on fans</a>. What a pity. </p>
+
+<blockquote>"He said a lawsuit is being prepared at the moment in the US against YouTube."</blockquote>
+
+<p>Good luck with that.</p>

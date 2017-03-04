@@ -1,0 +1,8 @@
+---
+title: Apple, Inc. Humor
+date: 2008-05-02 00:00:00 -07:00
+categories:
+- Apple
+---
+
+<p><a href="http://secretenemyhideout.com/post/33211013">Sign in bathroom at Apple headquarters</a>. </p>

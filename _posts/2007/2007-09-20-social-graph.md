@@ -1,0 +1,8 @@
+---
+title: social graph
+date: 2007-09-20 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p><a href="http://www.sixapart.com/about/news/2007/09/were_opening_th.html">SixApart opens up the social graph.</a> Happened sooner than I thought it would. Dang that's cool.</p>

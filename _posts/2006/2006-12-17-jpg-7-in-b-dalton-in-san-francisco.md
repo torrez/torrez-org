@@ -1,0 +1,8 @@
+---
+title: JPG 7 in B. Dalton in San Francisco
+date: 2006-12-17 00:00:00 -08:00
+---
+
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"> <a title="photo sharing" href="http://www.flickr.com/photos/fraying/306145330/"><img src="http://static.flickr.com/109/306145330_8eb126ac6e_m.jpg" style="border: 2px solid rgb(0, 0, 0);" /></a> <br /> <span style="font-size: 0.9em; margin-top: 0px;">&nbsp; <a href="http://www.flickr.com/photos/fraying/306145330/">JPG 7 in B. Dalton in San Francisco</a>&nbsp; <br />&nbsp; Originally uploaded by <a href="http://www.flickr.com/people/fraying/">fraying</a>. </span></div>
+
+<p>Got my copy of JPG magazine and you should too. It's a real real regular real magazine with like, well, an editor. This ain't no 'zine is what I'm saying. <a href="https://www.jpgmag.com/subscribe/">JPG Magazine subscriptions are perfect gifts</a>.</p>

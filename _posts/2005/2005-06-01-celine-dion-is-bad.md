@@ -1,0 +1,11 @@
+---
+title: Celine Dion Is Bad
+date: 2005-06-01 00:00:00 -07:00
+---
+
+<p>
+<a href="http://torrez.org/media/movies/bad.mov">Who's Bad?</a>
+</p>
+<p>
+That was too easy. I'm sorry.
+</p>

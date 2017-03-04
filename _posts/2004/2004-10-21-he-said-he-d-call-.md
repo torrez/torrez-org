@@ -1,0 +1,14 @@
+---
+title: He Said He'd Call!
+date: 2004-10-21 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p>
+Dear Flickr API,<br />
+You said you'd call. I wrote you a request for an API key and so far nothing. I thought things were going well. I even signed up for a pro account and joined the Flickr API discussion list in good faith. I fired off my API request and nothing.
+</p>
+<p>
+I really like you. Please call.
+</p>

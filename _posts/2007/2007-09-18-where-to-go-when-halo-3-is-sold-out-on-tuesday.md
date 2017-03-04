@@ -1,0 +1,10 @@
+---
+title: where to go when Halo 3 is sold out on tuesday
+date: 2007-09-18 00:00:00 -07:00
+categories:
+- Games
+---
+
+<p><a href="http://kotaku.com/gaming/retail/radio-shack-to-carry-video-games-301223.php">Radio Shack to begin selling video games and hardware</a>. I have to agree with the experts, there's nothing sadder than going to Virgin's store in SF and only seeing the newest games on the shelves. </p>
+
+<p>At my local EB Games I usually hit the used shelf first. It's great when you can find a perfectly good, old game on the bargain shelf for $10.</p>

@@ -1,0 +1,16 @@
+---
+title: The Other Andre Torrez
+date: 2009-12-18 00:00:00 -08:00
+categories:
+- Home
+---
+
+<p>So there's another Andre Torrez on the web. And not just on the web but in my city. And  not just in my city but writing for a local paper called the <a href="http://sfbg.com/">San Francisco Bay Guardian</a>. AND not just for the local paper, but the local MUSIC section of the paper which is something I was briefly connected to while in Sweetie.</p>
+
+<p><a href="http://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=site:sfbg.com+andre+torrez">See for yourself</a>.</p>
+
+<p>I sort of want to meet someone who has the same name as me, but then what? Do we just shake hands? I am pretty sure we're not related since my last name was altered by my grandfather. </p>
+
+<p>Once when I was a kid my mom excitedly ran over to me with the newspaper opened to the obituaries column because someone named Andres Torrez had died. I remember she was so excited that it didn't really register in her mind that she was showing her son an obituary of someone who happened to have the same name as me. </p>
+
+<p>When I made a bit of a sour face at this, it suddenly hit her what she was doing and she took it away from me, folded it up, and acted like it didn't happen. Later that day I asked her if I could clip it out she said she had thrown it away and I shouldn't be so morbid.</p>

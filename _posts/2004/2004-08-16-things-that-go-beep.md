@@ -1,0 +1,11 @@
+---
+title: Things That Go Beep
+date: 2004-08-16 00:00:00 -07:00
+---
+
+<p>
+<a href="http://www.johnmikereed.com/gallery.htm">John-Michael makes things that go 'beep'</a>.
+</p>
+<p>
+And something that doesn't go 'beep', but is small and cute: <a href="http://fabien.iconus.ch/english/cocoabooklet.html">CocoaBooklet</a> for your Macintosh. from <a href="http://www.stevenf.com/">~stevenf</a> who also pointed me to <a href="http://www.macdevcenter.com/pub/a/mac/2004/08/10/subversion.html">Making the Jump to Subversion</a> which is neither cute or 'beeps', but is good nonetheless.
+</p>

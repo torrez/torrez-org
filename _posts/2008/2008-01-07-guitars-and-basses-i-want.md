@@ -1,0 +1,11 @@
+---
+title: Guitars And Basses I Want
+date: 2008-01-07 00:00:00 -08:00
+---
+
+<ul>
+<li>Peter Tosh's Gibson. Need to find the exact year and model. Sweet lead guitar.</li>
+<li>Brad Nowell's custom guitar would be impossible to find since it was made by a friend of his. Still a pretty guitar.</li>
+<li>Gibson Thunderbird</li>
+*
+</ul>

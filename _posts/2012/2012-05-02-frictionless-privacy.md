@@ -1,0 +1,24 @@
+---
+title: Frictionless Privacy
+date: 2012-05-02 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p><a href="http://cdixon.org/">Chris Dixon</a> tweeted something the other day I liked.</p>
+
+<blockquote class="twitter-tweet"><p>We need someone to standardize privacy policies and terms of service a la Creative Commons.</p>&mdash; chris dixon (@cdixon) <a href="https://twitter.com/cdixon/status/197120132441583617" data-datetime="2012-05-01T00:27:56+00:00">May 1, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>It received a lot of retweets and favorites but I didn’t see any more about it. I suspect it’s a bit related to my tweet from a few weeks ago:</p>
+
+<blockquote class="twitter-tweet"><p>One piece of advice given to me last year that helps me understand why startups sometimes do what they do: “Don’t be thoughtful.”</p>&mdash; Andre Torrez (@torrez) <a href="https://twitter.com/torrez/status/189816562478366721" data-datetime="2012-04-10T20:46:09+00:00">April 10, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>When we were getting our privacy policy together we spent a few days talking to our lawyer to get something drafted that was fair and reasonable. We posted it and asked for feedback. While nothing changed in text from the date we posted it, we had conversations with users to help them understand what it all meant. I think it was good for our early users to be comfortable, but I really wish I had a toolset like Chris described to make it easier for us and our users to understand.</p>
+
+<p>I discovered <a href="http://www.azarask.in/blog/post/privacy-icons/">Aza Raskin already had Chris’ idea</a> and took it much further, but since he doesn’t have dates on his posts I can’t tell if it’s a recent or old post. </p>
+
+<p>It will be a shame if this doesn’t happen.</p>

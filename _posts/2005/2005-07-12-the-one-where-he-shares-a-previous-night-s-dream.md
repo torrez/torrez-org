@@ -1,0 +1,10 @@
+---
+title: The One Where He Shares A Previous Night's Dream
+date: 2005-07-12 00:00:00 -07:00
+---
+
+<p>I don't mean to get all cliched blogger on you, but last night I had a dream I was on Jeopardy and the final Jeopardy question (yeah, it was a dream, dreams don't follow the Jeopardy rules) was &quot;Name one song from Len's 1999 album 'You Can't Stop The Bum Rush' that was <strong>not </strong>'Steal My Sunshine'.&quot;</p>
+
+<p>I panicked. I had no idea. Yeah, I remembered that one song, but did they even have other songs? They must have if there was an album.</p>
+
+<p>So today I actually went to Amazon and looked up Len's album and found out they had a song called &quot;<span class="tiny">Cheekybugger&quot;. I committed it to memory.</span></p>

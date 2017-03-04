@@ -1,0 +1,16 @@
+---
+title: Changes To Everything TypeKey
+date: 2005-01-11 00:00:00 -08:00
+categories:
+- Web/Tech
+---
+
+<p>
+I've moved the wiki to /guide on <a href="http://typekey.torrez.org/">Everything TypeKey</a> (<a href="http://www.getluky.net/">Gordon</a> says "<a href="http://www.getluky.net/archives/000153.html">Don't name your wikis "Wiki"</a>). There are a few reasons why I'm moving it, but chief among them is the fact that I couldn't reliably get a robots.txt file in the wiki software to protect against bots rolling things back, on top of that it seemed that nothing on the site was getting indexed for search.
+</p>
+<p>
+I'll be redirecting the RSS feeds to the new ones via mod_rewrite, but please change them in your readers as well.
+</p>
+<p>
+Also, I'd like to offer my services to anyone contemplating or trying to get TypeKey running in their project. I figure if you get 20 people to sign up to TypeKey that's 20 people who will be receptive to seeing it in my projects. The most negative reactions to TKPal or Dropcash or have always been the use of TypeKey.
+</p>

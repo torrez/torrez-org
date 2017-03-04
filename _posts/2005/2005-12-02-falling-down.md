@@ -1,0 +1,20 @@
+---
+title: Falling Down
+date: 2005-12-02 00:00:00 -08:00
+categories:
+- Home
+---
+
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/torrez/69127927/" title="photo sharing"><img src="http://static.flickr.com/12/69127927_be2d32cc2f_m.jpg" style="border: 2px solid rgb(0, 0, 0);" /></a> <br /> <span style="font-size: 0.9em; margin-top: 0px;">&nbsp; <a href="http://www.flickr.com/photos/torrez/69127927/">Slip Sliding Day</a>&nbsp; <br />&nbsp; Originally uploaded by <a href="http://www.flickr.com/people/torrez/">torrez</a>. </span></div>
+
+<p>While moving my computer and office stuff to our new office (<a href="http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/12/02/RAIN.TMP">in the rain</a>) I slipped on some painted wooden stairs while carrying my G5 and landed on my back and upper hip area. Nobody was around to see it, and I found myself at the bottom of the stairs completely in shock at what had just happened. </p>
+
+<p>When I say &quot;found myself&quot; I realize I don't remember actually getting to the bottom only that I was laying on the floor at the bottom of the stairs with my cell phone in hand. For some reason, I called Chas, the sales guy in the office. Not an ambulance or 911, but Chas. So strange. I don't remember what I said to him, but I was babbling about helping me with my computer and I had fallen. As I was talking to him I was thinking &quot;why am I calling him?&quot; and I had to call him back to assure him I was fine and not to drive out to Ross just to marvel at my skinned knee.</p>
+
+<p>I thought I'd write about it just now as I'm taking a round of aspirins because it just occurred to me how funny it was I had called him. He's a good guy to call when you're in trouble, I think.<br /> </p>
+
+
+
+<p>Anyway, I'm in a terrible amount of pain, but I'm happy that my G5 started up like nothing was wrong, and I didn't break any bones. I got a crazy hip bruise that makes a crackling noise when I poke it (dried blood?) and my shin looks like I've taped a strip of beef jerky to it, but otherwise I'm okay. </p>
+
+<p>I'm probably obligated to point out that Chas will not only drive to Ross to help you with your broken G5 but he'll give you a great deal on some weblog sponsorship. You too can <a href="http://fmpub.net/about/">Call Chas</a>!</p>

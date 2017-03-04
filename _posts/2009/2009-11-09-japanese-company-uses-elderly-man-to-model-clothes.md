@@ -1,0 +1,10 @@
+---
+title: Japanese Company Uses Elderly Man To Model Clothes
+date: 2009-11-09 00:00:00 -08:00
+categories:
+- Favorites
+---
+
+<p><a href="https://www.unused.jp/looks.html">Japanse Company Uses Elderly Man To Model Clothes</a>. I think what I love most about this is his expression and the way he carries himself changes depending on which outfit he's wearing. He absolutely loves (and looks good in) some, but completely ridiculous in others.</p>
+
+<p>via the <a href="http://twitter.com/AwesomeRobot">@AwesomeRobot</a>.</p>

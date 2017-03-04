@@ -1,0 +1,26 @@
+---
+title: I Bought A DRM'd Book
+date: 2005-11-10 00:00:00 -08:00
+---
+
+<p>
+This past weekend I was in a spot, I needed a programming book that nobody near me carries, I didn't want to wait for Amazon to ship it and I didn't just want a reference, I wanted a real book to read cover to cover, so online searches weren't doing the job. Just before I gave up hope, I noticed a little link on the Amazon page that said, "Other Editions: Digital". Before you could say "SUCKER" I had the Adobe Reader EBX file on my desktop waiting for me to crack it open.
+</p>
+<p>
+I knew what I was getting myself into, I knew it'd be a pain in the ass and I'd have to use some crappy reader. I saw on the download page that I couldn't print, or even copy and paste out of it. When I finally installed it, I got <a href="http://flickr.com/photos/torrez/60649190/">a few more finger waving warnings</a>.
+</p>
+<p>
+Now that I've used it for a couple of days (only on my Powerbook because Adobe wants me to sign up on their site so I can get permission to copy it to other computers&#8212;as if!) I am so annoyed with e-books that I don't think I'll buy another Adobe Reader formatted one again.
+</p>
+<p>
+I did some searches on how to crack the thing. Not because I want to share it or sell it, but because I want to copy and paste code into the editor I'm working in. That's it, I want to copy some text so I don't have to type it all in by hand... Oh and don't get me started on searching in an e-book, since they want to keep the content in the document they don't seem to build an index of the data, so searching for a word means using a really bad pattern matching tool window.
+</p>
+<p>
+Although I usually go to the Internet + Google to read up on languages and such, there's nothing like having a good book with an index at your finger tips for finding something out quickly. Very few sites that act as reference databases do a very good job at teaching the intricacies of the language.
+</p>
+<p>
+I own every single one of <a href="http://www.craphound.com/">Cory's books</a>. Half of them were downloaded and read/sampled before purchased. Is anyone out there leading the charge with computer books like Cory is with SciFi? How can I be a criminal and crack my Adobe Reader? I suppose the nature of computer books (they expire) is probably why nobody wants to take up that challenge, though it seems like it would compel someone to keep updating and caring for their e-book if they knew they could sell it over and over again.
+</p>
+<p>
+I did think of one idea: the book allows me to pipe the content to one of the OS X voices for accessibility reasons, and if I knew anything about the voice system on the Mac, I bet I could capture that data and redirect the text to a text file and reformat it, but that doesn't work so good for code like it would for paragraphs of text.
+</p>

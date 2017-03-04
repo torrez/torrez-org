@@ -1,0 +1,8 @@
+---
+title: Creepy Photos
+date: 2008-06-30 00:00:00 -07:00
+categories:
+- City Life
+---
+
+<p><a href="http://bldgblog.blogspot.com/2008/06/pandemonium.html">These photos</a> on <a href="http://bldgblog.blogspot.com">BLDG BLOG</a> are pretty creepy. Creeeeepy.</p>

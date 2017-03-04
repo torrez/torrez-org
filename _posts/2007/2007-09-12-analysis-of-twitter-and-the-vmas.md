@@ -1,0 +1,8 @@
+---
+title: analysis of twitter and the VMAs
+date: 2007-09-12 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p><a href="http://www.shotsringout.com/?p=483">MTV took a stab at being relevant by trying out Twitter</a>. Read this, it's excellent. </p>

@@ -1,0 +1,52 @@
+---
+title: Mark Torrez
+date: 2012-05-17 00:00:00 -07:00
+categories:
+- Home
+---
+
+<p>I keep a Twitter account of things my son says. I know everyone’s kid is hilarious, but I think I am good at remembering to write them down. Here are some of my favorites.</p>
+
+<blockquote class="twitter-tweet">
+<p>“Where’s your grandma?”</p>
+<p>Ah, uh…she isn’t here anymore.</p>
+<p>“Oh! Like the Halloween store?”</p>
+Haha. Yes, like that.</p>
+<p>“She became something else.”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/135529525873360897" data-datetime="2011-11-13T01:28:51+00:00">November 13, 2011</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet">
+<p>Mark, help your dad.</p>
+<p>“Noo I am helping my trains!”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/148453523531640832" data-datetime="2011-12-18T17:24:12+00:00">December 18, 2011</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p>What would you think about having a little brother?</p>
+<p>“Yeah.”</p>
+<p>Or a little sister.</p>
+<p>(short pause) “I want a kitty.”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/160531497458212864" data-datetime="2012-01-21T01:17:46+00:00">January 21, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p>While urinating: “No. I don’t need to pee.”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/179765822707863555" data-datetime="2012-03-14T03:08:06+00:00">March 14, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p>“See you later, crocodile!”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/181080107346173953" data-datetime="2012-03-17T18:10:36+00:00">March 17, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p>“Where are my toes? I think they’re lost!”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/181942217668169729" data-datetime="2012-03-20T03:16:19+00:00">March 20, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p>“How…about…ice cream!!?”</p>
+<p>No, no ice cream.</p>
+<p>“How about just ice?”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/189176220641005568" data-datetime="2012-04-09T02:21:40+00:00">April 9, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p>While waiting for us to finish our lunches, “I want someone to play with me who isn’t me!”</p>&mdash; Mark Torrez (@mark_torrez) <a href="https://twitter.com/mark_torrez/status/199254359048069121" data-datetime="2012-05-06T21:48:35+00:00">May 6, 2012</a></blockquote>
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

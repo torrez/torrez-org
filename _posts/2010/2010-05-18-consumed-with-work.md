@@ -1,0 +1,12 @@
+---
+title: Consumed With Work
+date: 2010-05-18 00:00:00 -07:00
+categories:
+- Work
+---
+
+<p>I haven't written a post in over a month. That's rare. I think I've just grown too consumed with work that I no longer have time to read my newsreader and post anything.</p>
+<p>Stuff that has happened: I got an iPad of course. After a month of using it I ditched my laptop (didn't see that coming).</p>
+<p>To replace my laptop I'm now running an iMac Quad i7 with 8 gigs of RAM. This computer just SCREAMS. I love it. It's been a few years since I've worked on a powerful machine. ﻿</p>
+<p>My iPhone broke, but Apple wouldn't replace it so I bought a Nexus One. I'm giving the thing a month (<a href="http://notes.torrez.org/2009/08/google-phone-day-1.html">for real this time</a>) but we're already about two weeks in and I think we're hitting snags. Too soon to tell.</p>
+<p>Simpleform's first product is going to be announced soon. I'm in charge of putting the web site up and I am not good with CSS or HTML so it's taking longer than I had hoped. So as soon as I get that sorted then the site will be up and the product sort of announced.</p>

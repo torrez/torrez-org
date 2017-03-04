@@ -1,0 +1,11 @@
+---
+title: Best of Dropcash, part 1
+date: 2004-08-18 00:00:00 -07:00
+---
+
+<p>
+<a href="http://www.dropcash.com/campaign/tomwsmf/packets_over_sunnyside/">This is why</a> I wanted to make Dropcash. Tom of <a href="http://www.wsmf.org/">WSMF</a> is raising money to buy some wireless routers to put on top of some apartments to provide free wireless access as part of <a href="http://www.personaltelco.net/static/index.html">The Personal Telco Project</a>.
+</p>
+<p>
+Sure, Tom could have thrown up a link directly to PayPal and started collecting money that way, updating the campaign's progress on his site when he could. But now there's a landing page for his campaign so people can keep checking in on the progress in real-time, and that is pretty cool.
+</p>

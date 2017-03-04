@@ -1,0 +1,14 @@
+---
+title: Bret Victor - Inventing on Principle
+date: 2012-02-15 00:00:00 -08:00
+categories:
+- Work
+---
+
+<p>If you haven’t seen this talk yet, I wanted to make sure you did. One thing though: as you watch it remember it is <em>not</em> about a text editor or a new way to write code. There is a much larger statement being made so don’t get caught up in the “ain’t that cool” factor. </p>
+
+<p><iframe src="http://player.vimeo.com/video/36579366?byline=0" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/36579366">Bret Victor - Inventing on Principle</a> from <a href="http://vimeo.com/cusec">CUSEC</a> on <a href="http://vimeo.com">Vimeo</a>.</p></p>
+
+<p>I wasn’t sure if I should post this on our Simpleform blog or here. I have this blog post coming about my new life as a small business owner and how differently I carry myself these days. The work is similar, but different. We still ship code, solve problems, and have a good time, but there is much more concern about planning and our future than there was with MLKSHK.</p>
+
+<p>This talk arrived at a very good time.</p>

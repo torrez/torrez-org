@@ -1,0 +1,10 @@
+---
+title: Hallo, Knut
+date: 2007-05-09 00:00:00 -07:00
+---
+
+<p>I'm Andre! I'm bringing joy to your day! Hallo, Knut!</p>
+
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/bFR0xA60GGI"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/bFR0xA60GGI" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+
+<p>If anyone knows what they're saying besides "Hello, Knut, little ice bear." I'd love to know. I cannot wait until they make this into a video game. (thx, <a href="http://mcmanus.typepad.com/">Jeffrey McManus</a>)</p>

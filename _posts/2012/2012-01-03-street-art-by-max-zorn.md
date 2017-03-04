@@ -1,0 +1,12 @@
+---
+title: Street Art by Max Zorn
+date: 2012-01-03 00:00:00 -08:00
+categories:
+- Art
+---
+
+<p>Watch Dutch artist Max Zorn create translucent street art using only brown packing tape and a scalpel.</p>
+
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/ggoseOLlkrc" frameborder="0" allowfullscreen></iframe></p>
+
+<p><a href="http://presurfer.blogspot.com/2012/01/street-art-by-max-zorn.html">via The Presurfer</a></p>

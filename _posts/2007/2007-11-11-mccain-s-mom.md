@@ -1,0 +1,10 @@
+---
+title: McCain's Mom
+date: 2007-11-11 00:00:00 -08:00
+categories:
+- Politics
+---
+
+<p><a href="http://apnews.myway.com/article/20071109/D8SQETR00.html">Geez, Maaaa!!</a>. McCain's 95-year-old mother points out how the Mormons were the reason behind the Salt Lake City Olympic Scandal. </p>
+
+<p>I haven't cared much for the race we're about to be bothered to hell over, but I figured it was time I add a "<a href="http://notes.torrez.org/politics/index.html">politics</a>" category on my site so I can start tracking all the fun.</p>

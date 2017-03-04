@@ -1,0 +1,34 @@
+---
+title: Lightweight
+date: 2006-01-27 00:00:00 -08:00
+categories:
+- Food and Drink
+---
+
+<p>
+My sister, it seems, has my number.
+</p>
+<p>
+<strong>Sister:</strong> how are things with you?  what are you doing this weekend?
+</p>
+<p>
+<strong>Me:</strong> hi, busy weekend of drinking
+</p>
+<p>
+<strong>Sister:</strong> drinking wow
+</p>
+<p>
+<strong>Sister:</strong> cool
+</p>
+<p>
+<strong>Me:</strong> hah
+</p>
+<p>
+A few seconds pass.
+</p>
+<p>
+<strong>Sister:</strong> i predict you will have 2 beers
+</p>
+<p>
+<strong>Me:</strong> ...
+</p>

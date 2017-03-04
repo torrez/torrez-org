@@ -1,0 +1,8 @@
+---
+title: skate video made from upcoming video game
+date: 2007-09-07 00:00:00 -07:00
+categories:
+- Games
+---
+
+<p><a href="http://kotaku.com/gaming/clip/skate-video-tickles-the-funnybone-297326.php">Skate video of skaters bailing</a>, the twist is it's from the upcoming video game by EA called <a href="http://www.gamespot.com/xbox360/sports/skate/index.html">skate.</a> There are lots of real videos you can buy full of this sort of thing, and most skate videos have some section devoted to it now, so why shouldn't a video game?</p>

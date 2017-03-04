@@ -1,0 +1,8 @@
+---
+title: music video "internet people"
+date: 2007-09-06 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p><a href="http://www.channelfrederator.com/episode/TMM_20070906">This video</a> is going to be the number one thing on the Internet for the next three days at least. I love how the last thing on the list is something I JUST saw yesterday. <a href="http://waxy.org/links/">Thanks to Andy</a> I am now up to date on every one of the people featured.</p>

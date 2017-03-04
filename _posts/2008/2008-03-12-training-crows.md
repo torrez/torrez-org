@@ -1,0 +1,10 @@
+---
+title: Training Crows
+date: 2008-03-12 00:00:00 -07:00
+categories:
+- Engineering
+---
+
+<p>So cool. <a href="http://www.wireless.is/projects/crows/">Training crows to perform tasks</a> by building a device to reward them for bringing it coins. found on <a href="http://www.thingsmagazine.net/2008/03/one-of-those-wonderfully-leftfield.htm">things magazine</a>. </p>
+
+<p>I hear they've trained people to bring others links.</p>

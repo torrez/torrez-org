@@ -1,0 +1,8 @@
+---
+title: These Are My Two Favorite People Right Now
+date: 2007-02-01 00:00:00 -08:00
+---
+
+<p>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/zx2ytr2Oyv4"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/zx2ytr2Oyv4" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+</p>

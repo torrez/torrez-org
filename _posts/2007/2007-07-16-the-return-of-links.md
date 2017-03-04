@@ -1,0 +1,30 @@
+---
+title: The Return Of Links
+date: 2007-07-16 00:00:00 -07:00
+categories:
+- del.icio.us
+---
+
+<p>My little experiment in tossing links out of the main blog didn't work out so hot. I like linking things, but I don't like the lazy feeling of stuff just showing up here at some point in the day.</p>
+
+<p>If I could just edit and format my links for the day in a nice way I'd be much happier with them appearing inline. </p>
+
+<p>So that's what I'm going to do. I built myself a little script in JavaScript that uses the JSON feed to generate a page where I can select which links I want to publish and then have them populate a simple unordered list which I can copy and paste into a new post:</p>
+
+<p><a href="http://torrez.typepad.com/.shared/image.html?/photos/uncategorized/2007/07/16/picture_4_2.png" onclick="window.open(this.href, '_blank', 'width=640,height=357,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img alt="Picture_4_2" title="Picture_4_2" src="http://notes.torrez.org/images/2007/07/16/picture_4_2.png" width="200" height="111" border="0"  /></a></p>
+
+<p>Produces this (which I was able to edit a bit):</p>
+
+<ul>
+    <li><a href="http://www.flickr.com/photos/9793231@N05/sets/72157600706628117/">Mission Stencil Story - a photoset on Flickr</a> - Just click and go see. I can't explain it. It's neat. Though I'm not a fan of the hippie feel-goods painting "You Are Loved" all over the sidewalks here, but this is pretty good.</li>
+    <li><a href="http://gothtober.com/">Apply for Gothtober!</a> - Gothtober is coming!!!</li>
+    <li><a href="http://sfgate.com/cgi-bin/blogs/sfgate/detail?blogid=5&amp;entry_id=18128">Chronicle Podcasts : It's time for the revolution</a> - You think this is a joke. People really talk like this here.</li>
+    <li><a href="http://www.php.net/archive/2007.php#2007-07-13-1">PHP 4 end of life announcement</a></li>
+    <li><a href="http://sfbay.craigslist.org/eby/pet/373283135.html">Pregnant scorpion female</a> - Nightmares</li>
+    <li><a href="http://www.flickr.com/photos/optilevers/sets/72157600750698767/">iPhone - a photoset on Flickr</a> - That Newton was gorgeous.</li>
+    <li><a href="http://www.encyclopediadramatica.com/TL%3BDR">TL;DR - Encyclopedia Dramatica</a> - Read this for me.</li>
+</ul>
+
+<p>You can <a href="http://torrez.org/projects/delicious/delicious.html">download the source here</a>. Feel free to mess with it, it's a little messy and I haven't tested it on anything but Firefox. If you want to add to it and do cooler stuff with it, feel free. Public domain and stuff.</p>
+
+<p>Trust me, the last thing you want is a blog all about how <a href="http://notes.torrez.org/2007/07/timers.html">they should add calculators to kitchen timers</a> (wtf?).</p>

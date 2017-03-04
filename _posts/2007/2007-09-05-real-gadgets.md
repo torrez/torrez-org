@@ -1,0 +1,10 @@
+---
+title: real gadgets
+date: 2007-09-05 00:00:00 -07:00
+categories:
+- Gadgets
+---
+
+<p><a href="http://gadgets.boingboing.net/">BoingBoing Gadgets</a> so far has been excellent. Joel's lived up to the infamous <a href="http://gizmodo.com/gadgets/feature/horseshoes-and-hand-grenades-joel-johnson-returnsto-spank-us-all-for-supporting-crap-236310.php">Gizmodo "spanking"</a> and produced a great gadget blog for people who love gadgets, not just the latest overpriced black shiny thing.</p>
+
+<p>Whether he's talking about <a href="http://gadgets.boingboing.net/retro/" title="love this">retro gadgets</a>, or devoting <a href="http://gadgets.boingboing.net/2007/09/05/apple-itunes-wifi-mu.html">a more subdued amount of space</a> to Apple's latest announcements, it's exactly the sort of gadget blog that appeals to me.</p>

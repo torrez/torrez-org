@@ -1,0 +1,9 @@
+---
+title: First Major iPhone Annoyance
+date: 2007-07-25 00:00:00 -07:00
+categories:
+- Gadgets
+---
+
+<p><img src="http://notes.torrez.org/images/Picture 3.png" border="0" height="70" width="529" alt="Picture 3.png"  />
+While trying to register on <a href="https://www.translink.org/getTranslinkOrderCardSubmitCardDetails.do">Translink's site</a>, the iPhone <em>conveniently</em> sensed the field was named with "phone" and replaced my keyboard with a number keypad. A number keypad with <em>no dash</em>. A dash that the Translink required on their end to know it was a "real" number.</p>

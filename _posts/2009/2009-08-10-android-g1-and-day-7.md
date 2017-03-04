@@ -1,0 +1,23 @@
+---
+title: Android G1 And Day 7
+date: 2009-08-10 00:00:00 -07:00
+categories:
+- Gadgets
+---
+
+<p><em>I <strong>had</strong> switched to a Google G1 "Dream" phone for a month. I felt like writing about it.</em></p>
+
+<p>I give up. I thought it'd be fun to see what life was like on a different platform but I think I've seen more than enough on this hardware. The device is definitely too slow to get anything done and I have found myself <strong>not</strong> going to the phone when in a situation where I used to check my mail and catch up on Twitter. I stood in line at the ATM and just didn't bother. </p>
+
+<p>On Saturday my family was here to visit and I found myself reaching for the iPhone to check on a restaurant, map some directions, and to check on an order. Given a choice between the two I just could not keep flipping that thing open knowing there were other perfectly good computers nearby.</p>
+
+<p>I took the G1 into work today but I came home knowing what I had to do. I switched the SIM back to the iPhone. I'm going to keep installing apps and carrying it with me, but the SIM stays in the iPhone. When I get my hands on <a href="http://www.htc.com/www/product/hero/overview.html">a Hero</a> I can <em>really</em> put Android to the test. I think the G1 was just not ready to be the hardware for Android. And I'm not ready to interact with people when presented with opportunities to tune them out. </p>
+
+<p><strong>Some Links And Other Items You Might Be Interested In</strong></p>
+
+<ul>
+    <li><a href="http://al3x.net/2009/08/10/switching-season.html">Alex Payne wrote something that just nails</a> what drives me to want to see what else is out there. In 1999 I switched from Windows to Linux on my desktop for a year while I contracted. The fallout from that was horrendous. Lost files, corrupted Word docs, one dumb weekend where I worked in 640x480 because I hit "Okay" instead of "NO, NO, NO, GOD, NO" on an update and was clueless about how to fix it without wiping and re-installing. I switched to OS X in 2001.</li>
+    <li>Ed Chang wrote in and told me about <a href="http://www.cyrket.com/package/com.cootek.touchpal">TouchPal</a> which does some really good stuff as a replacement keyboard. I used it for a bit while i searched for a podcast manager (BeyondPod seemed to be the best but did not actually work when I tried subscribing to feeds).</li>
+    <li>There <strong>is</strong> <a href="http://sites.google.com/site/foursquareddev/ux/venueactivity">a Foursquare App for Android</a> that looks very promising! I will definitely be testing it out.</li>
+    <li><a href="http://log.scifihifi.com/post/159881723/the-twitter-app-to-use-on-android-im-told-is">Buzz writes from experience what it takes to ship a well polished app</a> and why he does it. Coincidentally I bought <a href="http://birdfeedapp.com/">Birdfeed</a> on Sunday.</li>
+</ul>

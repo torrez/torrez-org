@@ -1,0 +1,29 @@
+---
+title: Comic Book Crazy
+date: 2007-02-21 00:00:00 -08:00
+categories:
+- Books
+---
+
+<p><img border="0" src="http://torrez.typepad.com/photos/uncategorized/lookingleft.jpg" title="Lookingleft" alt="Lookingleft" style="margin: 0px 0px 5px 5px; float: right;" />
+I never thought it would happen to me: I am comic book crazy. I can't stop thinking about my next trip to the comic book store to pick up some more Kevin Huizenga or Jordan Crane.
+</p>
+<p>
+And who is to blame? <a href="http://www.fartparty.org/">The Fart Party</a>. Here I was, happily laughing about poo and cheese and cheese poo, and then she goes and mentions <a href="http://www.margomitchell.com/thc/jb.htm">Jeffrey Brown</a>. So the next time I'm in Giant Robot there's a Jeffrey Brown book. And then the next time I'm in Needles + Pens there is a different Jeffrey Brown book. I buy them all.
+</p>
+<p>
+I remember liking Derek Kirk Kim's online comic a few years back (<a href="http://www.lowbright.com/Comics/SameDifference/SameDifferenceIndex.htm">Same Difference</a> the links seem to be broken though), and I find his book at Super 7 so I buy it too, then wow <a href="http://www.usscatastrophe.com/kh/">Kevin Huizenga</a> and <a href="http://www.reddingk.com/">Jordan Crane</a>. And crap, I can't find any <a href="http://shigabooks.com/">Jason Shiga</a> anywhere.
+</p>
+<p>
+Then while talking to my friend Chris he mentions <a href="http://www.amazon.com/Pyongyang-Journey-North-Guy-Delisle/dp/1896597890/sr=8-2/qid=1172085100/ref=pd_bbs_2/104-1983241-4655160?ie=UTF8&amp;s=books">Pyongyang</a> which I just ordered, sight unseen.
+</p>
+<p>
+I think my favorite part about all of this is that I'm coming from a nearly complete state of ignorance of comic books. Other than the Jeffrey Brown Julia recommended I've mostly selected them by randomly (or is it?) buying books based on covers or quickly flipping through to see if I like anything inside. Which, as we know for novels is a crapshoot, but for comic books is much more representative of the whole product. The fact that I'm finding incredibly touching and entertaining bits of art all by myself feels much more satisfying than having someone point me in the direction<a href="#comic-note">*</a>.
+</p>
+<p>
+I think the reason buying comic books is interesting to me is that they can require less commitment than a novel and cost less than a video game, so I have the freedom to sample and try things I might not like. In fact I've purchased a couple so far that I hated. With video games I pore over review sites, double check with <a href="http://www.metacritic.com/">MetaCritic</a>, and finally take the &quot;plunge&quot; by renting it from GameFly. If it passes all those tests I'll probably buy it. Even then I get stuck with an <a href="http://www.elderscrolls.com/home/home.htm">Oblivion Elder Scrolls</a> for $50 that fails to keep me entertained.
+</p>
+<p>
+<a name="comic-note"></a>
+<small>* I realize any book that's managed to make it onto Giant Robot's or Super 7's shelves or for that matter printed by a small publishing house means quite a few people think its worth reading. Unlike the gatekeepers of video games or indie music or anything else that shows up in the pages of Entertainment Weekly, the small independent comic book still feels like a large gamble to me.</small>
+</p>

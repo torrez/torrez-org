@@ -1,0 +1,22 @@
+---
+title: Bringing Back Torrez.org
+date: 2007-03-19 00:00:00 -07:00
+categories:
+- Weblogs
+---
+
+<p><img src="http://notes.torrez.org//images/100x85.gif" border="0" height="87" width="100" alt="100x85.gif" align="right" />I wiped <a href="http://torrez.org">torrez.org</a> clean for a fresh start. I removed a lot of bad ideas and worthless content to make way for <em>new</em> bad ideas and worthless content.</p>
+
+<p>The domain itself had not been resolving for a couple months due to just being so damn busy, but last night I was able to set up the path, permissions, and the conf file how I like it. I even set up the 404 to start sifting through lists of the stuff I broke.</p>
+
+<p>Coincidentally Jeff at CodingHorror <a href="http://www.codinghorror.com/blog/archives/000819.html">posted about 404s</a> and I agree with everything he says. A good 404 page is just good customer service and so that was one of the first things I did. </p>
+
+<p>The page is accessible <a href="http://torrez.org/404/">this way</a> via the 404/ path without a redirect&mdash;meaning when you go to <a href="http://torrez.org/this-is-not-here">http://torrez.org/this-is-not-here</a> it keeps the path for you to step back to where you came from.</p>
+
+<p>I am now debating if I want to set an actual blog up on the server or possibly "tumble blog" my stuff in from the various sources like <a href="http://torrez.tumblr.com">torrez.tumblr.com</a>.</p>
+
+<p>Although I am a loyal SixApart fan, it's been a while since I used anything other than TypePad, so I'm curious as to what else is out there worth using. I hate hate hate hate PERL and the thought of having to get PERL working on this box to satisfy MT is daunting. I toyed with <a href="http://www.simplelog.net/">SimpleLog</a> for a bit on my laptop, and while it's very nice to use, I also don't have the desire to maintain Rails. Too often I see people hosting rails sites with random server (500) errors so that's not very attractive, plus it feels like such a lock-in to host a personal site using the public/ dir for everything not db related. </p>
+
+<p>So the answer is probably PHP based blog software. It's ubiquitous. I use it at work. It's super simple to troubleshoot and Apache loves it. I have almost ZERO experience with Wordpress and the few times I used it I wasn't very impressed. I am not sure I even <em>need</em> a blogging engine since TypePad has worked like such a champ. There are just those moments when I wish I could do something with some PHP magic or integrate an idea for a post in an application.</p>
+
+<p>We'll see, maybe the most I'll be able to do is a 403 error page, too.</p>

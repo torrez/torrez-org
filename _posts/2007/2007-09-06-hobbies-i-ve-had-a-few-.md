@@ -1,0 +1,10 @@
+---
+title: hobbies, i've had a few...
+date: 2007-09-06 00:00:00 -07:00
+categories:
+- Film
+---
+
+<p>My favorite line ever uttered on <a href="http://www.usanetwork.com/series/monk/">Monk</a> (a TV show about a detective with OCD) comes at this moment where he stops in front of a very modern, splotchy painting, where dark figures seem to blend into each other in gloomy colors. He stares at it a bit, turns to the owner, and in an almost frightened voice says: "This is me...isn't it?"</p>
+
+<p>With that, I point you to the very funny <a href="http://www.youtube.com/watch?v=SXKKtATfASY">Regrets: Hobbies</a>, part of <a href="http://www.youtube.com/user/sdelahoyde">a series</a> by Steve Delahoyde. Here is <a href="http://www.youtube.com/watch?v=nAJXki87vgw">boxes</a>, <a href="http://www.youtube.com/watch?v=nxDj0RywbxE">spoons</a>, <a href="http://www.youtube.com/watch?v=NJ2CxLvJ4fw">kid</a>, and <a href="http://www.youtube.com/watch?v=3bTNlLLNLOo">racism</a>.</p>

@@ -1,0 +1,10 @@
+---
+title: One Study, Two Interpretations
+date: 2007-10-03 00:00:00 -07:00
+categories:
+- Science
+---
+
+<p>The study itself is interesting, but <a href="http://www.rebeccablood.net/archive/2007/10/conscientious_people_shown_to.html">Rebecca points to two stories</a> where the findings are framed differently.</p>
+
+<p>Two points go to CNN's graphics department for continuing <a href="http://i.l.cnn.net/cnn/2007/HEALTH/conditions/10/01/personality.alzheimers.ap/art.alzheimer.graphic.jpg">their 10 year reign of horrendous graphics on the web</a>.</p>

@@ -1,0 +1,12 @@
+---
+title: I Never Thought Of It That Way
+date: 2008-01-16 00:00:00 -08:00
+categories:
+- Favorites
+---
+
+<p>To be filed under <em>I-Never-Thought-Of-It-That-Way</em>:</p>
+
+<p><a href="http://www.dekorte.com/blog/blog.cgi?do=item&amp;id=3172">I'm hoping the muscle car style dies with the internal combustion engine just as the Edwardian style died with the steam engine.</a></p>
+
+<p>found on <a href="http://snarkmarket.com/blog/snarkives/briefly_noted/machines_and_style/">snarkmarket</a></p>

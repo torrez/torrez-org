@@ -1,0 +1,8 @@
+---
+title: Net Neutrality
+date: 2009-10-28 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p>On the subject of Net Neutrality: <a href="http://petelumbis.org/blog/?p=1197">Aiyeeeee</a>.</p>

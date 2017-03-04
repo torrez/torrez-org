@@ -1,0 +1,36 @@
+---
+title: Google Phone Day 1
+date: 2009-08-04 00:00:00 -07:00
+categories:
+- Gadgets
+---
+
+<p><em>I have switched to a Google G1 "Dream" phone for a month. I feel like writing about it.</em></p>
+
+<p>Before the iPhone arrived I was a very happy <a href="http://www.gsmarena.com/sony_ericsson_k750-1090.php">Ericsson k750i</a> user. It was fast, I was pretty good with the number pad, and Google Reader worked really well on it. The coolest thing it did was in-camera photo stitching (<a href="http://www.flickr.com/photos/torrez/440224825/">example 1</a>, <a href="http://www.flickr.com/photos/torrez/440236815/">example 2</a>) and the damn thing had a 2MP camera that also shot video. Oh and computer tethering worked right out of the box. This was early 2007.</p>
+
+<p>To say the least, at that point in time I was very much a mobile phone enthusiast. I researched the latest phones. I bought unlocked phones from Amazon for hundreds of dollars just to have the latest and greatest. People laughed when I told them what I paid for my phone, but I didn't care because I was commuting by train and my phone was pretty much my computer for the hour or so it took to get to work. </p>
+
+<p>Of course, we all know what happened in June of 2007. The iPhone arrived and it was wonderful. Sure, I had to lose Internet tethering, in-camera photo stitching, the 2MP camera, the video recording, the removable SD card slot, and the drag/drop mp3 loading, but the iPhone was just so good without any of those features most of all because it promised an experience that I was used to on my desktop: regular updates. And possibly, fingers crossed, an SDK.</p>
+
+<p>The Ericsson software was woefully out of date. There was a patch you could load to get some new features, but it was at least a year old, and I had to jump through many hoops to get it installed (the least of which was get the phone to show up in Parallels as the updater was Windows only). When I finally did install it, I found newsreader software that seemed to be written by people who didn't really know what a newsreader was.</p>
+
+<p>So I think, looking back, the thing that sold me on the iPhone was knowing the software in 2007 would be updated by 2008. That was a very big deal for me back then. More than the features I listed up above&#8212;regular updates and the promise of a reasonable syncing workflow (without installing conduits and drivers and god-awful phone PIMs) was so much more attractive than a removable battery and drag-and-drop mp3 playlists. </p>
+
+<p>Now we're in 2009 and despite the CEO of Palm saying[1]: <a href="http://daringfireball.net/2006/11/colligan_head_stuck">"PC guys are not going to just figure this out. They’re not going to just walk in."</a> The "PC guys" did just that. They walked right in and made some very cool devices you could (pretty much) install your own software on[2] and call your mom. </p>
+
+<p>So it's only been two years but I've gone from absolutely loving Apple as gatekeeper to my device's software to just flat out hating it. The past few months have been a parade of sad stories of developers getting bit by app store policies, or us, the users, losing out on software that would have been great to have[3]. <a href="http://www.google.com/voice/">Google Voice</a>, for example, has been something I've been eagerly waiting for every since I was invited to use the service. </p>
+
+<p>Add in the <a href="http://s3.amazonaws.com/Dropload/torrez/iphone.png">$600 price tag for a new 3GS</a> (I was told to check back in July 2010!) and I started wondering what my next phone would be. Somewhat randomly as this was going on I was given a new, unlocked, G1 developer phone which arrived at my office today. I decided to give it a month and see how it goes.</p>
+
+<p>So far I have to admit to liking it a bit more than I thought I would. </p>
+
+<p>The hardware itself is flexible in all the wrong places and almost nothing lines up like its supposed to. It reminds me of the predecessor to the k750i, the <a href="http://www.phonescoop.com/phones/phone.php?p=602">s710a</a>. The Ericsson s710a was a swing-out phone that took massive (at the time) photos and had a large, pretty screen, but was a bit heavy and you could use it like a roll of quarters if you needed to punch someone.</p>
+
+<p>I'll write about the software later. For now I can say I won't have a problem using it for 30 days. I am sure I'll miss a few games, but most of the apps I use are simply front-ends to web services like Twitter or Google Reader. Google Voice is EXCELLENT. The whole Google Account integration "just works". I launched maps for the first time and the system knew who I was and signed me into Google Latitude. Also, my calendar is updated and synced as are my contacts pulled over from Google Voice. </p>
+
+<p>I think tomorrow I will write about my least favorite thing about this phone: the audio player and dongle. </p>
+
+<p>[1] Seriously, I fucking love that quote so much.<br />
+[2] I realize Blackberrys existed at this time and many people used them, loved them, and wrote software for them, but they were just so comically huge! I still don't understand that device. I will never understand that device.<br />
+[3] I'll never jailbreak my phone. That road just leads to heartache and pain and I can't bring myself to do it.<br /></p>

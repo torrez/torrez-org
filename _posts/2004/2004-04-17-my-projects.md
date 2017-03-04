@@ -1,0 +1,10 @@
+---
+title: My Projects
+date: 2004-04-17 00:00:00 -07:00
+---
+
+<p>
+I like to see what people are <a href="http://www.google.com/search?q=%22my+projects%22&ie=UTF-8&oe=UTF-8">working on</a>.
+</p>
+<p>
+I seem to keep a revolving . If projects are small

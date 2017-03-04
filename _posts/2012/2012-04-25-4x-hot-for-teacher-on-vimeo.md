@@ -1,0 +1,8 @@
+---
+title: 4x Hot for Teacher on Vimeo
+date: 2012-04-25 00:00:00 -07:00
+categories:
+- Music
+---
+
+<p><iframe src="http://player.vimeo.com/video/41044375?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/41044375">4x Hot for Teacher</a> from <a href="http://vimeo.com/mathowie">Matt Haughey</a> on <a href="http://vimeo.com">Vimeo</a>.</p></p>

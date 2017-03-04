@@ -1,0 +1,8 @@
+---
+title: and will the microwave give me radiation sickness?
+date: 2007-08-28 00:00:00 -07:00
+categories:
+- Favorites
+---
+
+<p>Dumb moment of the day: when I asked the radiologist if I needed to remove my wallet before I received an X-ray. Thankfully she just smiled and said it wouldn't be necessary.</p>

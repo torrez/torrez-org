@@ -1,0 +1,20 @@
+---
+title: What can you tell a person you been wit’ for forty years?
+date: 2012-01-25 00:00:00 -08:00
+categories:
+- Film
+---
+
+<p>“What can you tell a person you been wit’ for forty years?”</p>
+
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/2tzKAlLb4iM" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/MzVGuCUj4yY" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/3gonQKFbtec" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/IlBVeHIFsbE" frameborder="0" allowfullscreen></iframe></p>
+
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/5JZX71w2DOA" frameborder="0" allowfullscreen></iframe></p>
+
+<p><em>Italianamerican</em><span>&nbsp;</span>(dir. Martin Scorsese; 1974)</p></span></span></p></blockquote><p>[via <a href="http://www.kungfugrippe.com/">Kung Fu Grippe</a>]</p></p>

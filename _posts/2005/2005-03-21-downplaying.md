@@ -1,0 +1,43 @@
+---
+title: Downplaying
+date: 2005-03-21 00:00:00 -08:00
+categories:
+- Projects
+---
+
+<p>
+We have a new IA at work helping with our site re-design and we've become lunch
+friends, usually talking about some idea for a site or project. Today while
+walking back from eating he brought up something that had happened the previous
+week. We had been at my desk and <a href="http://waxy.org/">Andy</a>
+IM'd me that Dropcash was mentioned in a Nature.com story of a
+<a href="http://www.kokogiak.com/mashup/preso.html">talk given at ETech</a>.
+I pointed it out to him, and then, according to him, downplayed it to the point
+of apologizing for even bringing up the subject. I am pretty sure I said something
+like, &quot;Oh, it's this stupid thing I did...&quot;
+</p>
+<p>
+He said it was a peculiar reaction to something someone should be proud of, and
+we talked about how it's my general reaction to any projects I do being discussed.
+</p>
+<p>
+I decided on our walk back from lunch, that this attitude is rooted in two things.
+</p>
+<ol>
+	<li>At work I'm totally on it when it comes to pointing out our tech team's projects,
+	yet when I'm doing stuff outside of work I feel that it's &quot;play&quot; and so I don't
+	take it as seriously. Had someone at ETech discussed my very cool dynamic javascript
+	publishing CMS which fakes dynamic content for Sony's Latin America web site,
+	I'd probably be all over it. I'd have shirts made. But stuff like <a href="http://www.johnzeratsky.com/archives/000617.php">announcing TKPal</a> not so much.</li>
+	<li>Lana Turner was discovered at Schwab's Drugstore sipping soda. I have some
+	idealistic dream of someone calling me up from the minors I think. That sounds so lame.</li>
+</ol>
+
+<p>
+But yeah, I creep people out sometimes when I start sentences with, &quot;I have this
+really stupid idea, but...&quot;
+</p>
+<p>
+PS, go help out the <a href="http://mopedarmy.com/main/newsarchive/374/">Moped Army</a> if you're
+so inclined. They're using <a href="http://www.dropcash.com/">Dropcash</a>.
+</p>

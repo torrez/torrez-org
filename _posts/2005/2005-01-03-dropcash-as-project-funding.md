@@ -1,0 +1,13 @@
+---
+title: Dropcash As Project Funding
+date: 2005-01-03 00:00:00 -08:00
+categories:
+- Projects
+---
+
+<p>
+I love it that <a href="http://www.rayners.org/">David Raynes</a> not only built the <a href="http://www.rayners.org/2004/09/dropcash_plugin.php">Dropcash MovableType plugin</a> and then held the code for <a href="http://www.rayners.org/2004/09/mt_dropcash_plu.php">ransom until his goal was met</a>. He's doing it again with <a href="http://www.rayners.org/2004/12/workflow_05_1.php">this workflow plugin for MovableType</a>.
+</p>
+<p>
+It's fun to see people use things in ways you didn't really intend. With this new thing I'm getting ready to release, I keep coming up with different ways to use it, but I'm sure someone will surprise me like David has.
+</p>

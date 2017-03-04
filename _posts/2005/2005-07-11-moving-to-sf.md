@@ -1,0 +1,19 @@
+---
+title: Moving To SF
+date: 2005-07-11 00:00:00 -07:00
+categories:
+- Work
+---
+
+<p>
+<a href="http://torrez.typepad.com/.shared/image.html?/photos/uncategorized/dsc00249.JPG" onclick="window.open(this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img width="100" height="75" border="0" alt="Dsc00249" title="Dsc00249" src="http://notes.torrez.org/images/dsc00249.JPG" style="margin: 0px 0px 5px 5px; float: right;" /></a>We spent the weekend securing a sublet and driving around San Francisco neighborhoods. We got about this || close to taking the first one we saw (pictured on the right), but realized we'd be making a big mistake not waiting to see if we could do better. It wasn't a bad place, and the landlord was incredibly nice and helpful, but who takes the first thing they see? Not us.
+</p>
+<p>
+One cab driver told us it was much better in San Francisco as he'd lived in &quot;LA&quot; (Woodland Hills) for a few years and was re-located to SF. His allergies disappeared and he said he felt healthier--despite being laid off almost immediately after arriving. Thanks, man.
+</p>
+<p>
+The story did get him a better tip, though.
+</p>
+<p>
+Any apartment hunting tips would be greatly appreciated. We like Noe Valley, the pan handle region (?), and Cole Valley but not set on them.
+</p>

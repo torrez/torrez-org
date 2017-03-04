@@ -1,0 +1,8 @@
+---
+title: You Look Nice Today
+date: 2008-04-09 00:00:00 -07:00
+categories:
+- Favorites
+---
+
+<p><a href="http://youlooknicetoday.com/episode-guide">There's another episode of You Look Nice Today up</a>. Not sure what happened to episode #1, but I get the feeling whoever was in charge of recording it forgot to record it.</p>

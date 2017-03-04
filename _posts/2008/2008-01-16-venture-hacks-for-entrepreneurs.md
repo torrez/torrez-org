@@ -1,0 +1,8 @@
+---
+title: Venture Hacks for Entrepreneurs
+date: 2008-01-16 00:00:00 -08:00
+categories:
+- Web/Tech
+---
+
+<p><a href="http://venturehacks.com/articles/lawyer-equity">Venture Hacks on giving lawyers equity</a> in itself doesn't apply to me, but it's interesting to read about the subject in a completely navel-gazing Valley point of view. The site is interesting in much the same way. via <a href="http://twitter.com/ev/statuses/607313852">Ev</a> (naturally).</p>

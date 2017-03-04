@@ -1,0 +1,16 @@
+---
+title: 'PandoDaily: What Will Ad Tech Look Like Without Cookies'
+date: 2012-12-17 00:00:00 -08:00
+categories:
+- Web/Tech
+---
+
+<p>“<a href="http://pandodaily.com/2012/12/15/what-will-ad-tech-look-like-without-cookies/">What Will Ad Tech Look Like Without Cookies?</a>” This is a very interesting question raised on PandoDaily. I think a lot about ad serving and ad tech so this kind of stuff is always interesting to me.</p>
+
+<p>It reminded me of a trick that people already do to create zombie cookies that rise from the dead even after you think you’ve deleted your cookies.</p>
+
+<p>The <a href="http://en.wikipedia.org/wiki/HTTP_ETag">ETag</a> is part of the HTTP spec that provides a mechanism for cache validation. When you request a resource (image, css, html) from a site some servers provide an ETag string in the headers. Your browser will make a note of the string and the next time your browser requests that file from the servers it will send the previously attached ETag string along with the request.</p>
+
+<p>If the ETag string you send, and the ETag string the server has in memory for that file are the same, the server tells your browser the file hasn’t changed and does’t waste bandwidth sending you another file. Just use the one you have.</p>
+
+<p>The ETag string can be anything. And ad companies use this fact to identify you by sending you ETag strings that are linked to a cookie they gave you in the past. So you delete all your cookies but your browser sends the ETag along with some ad serving .js file and bam, your old cookie is back.</p>

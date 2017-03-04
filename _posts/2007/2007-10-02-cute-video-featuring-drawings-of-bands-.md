@@ -1,0 +1,8 @@
+---
+title: cute video featuring drawings of bands
+date: 2007-10-02 00:00:00 -07:00
+categories:
+- Music
+---
+
+<p><a href="http://howithappened.com/2007/10/abba-to-zappa-answers-and-extra-bands.html">A cute video featuring drawings of bands</a> done for <a href="http://blogs.guardian.co.uk/observermusic/">The Observer music magazine</a>. There are answers linked on the page.</p>

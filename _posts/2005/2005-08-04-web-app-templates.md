@@ -1,0 +1,14 @@
+---
+title: Web App Templates
+date: 2005-08-04 00:00:00 -07:00
+categories:
+- Projects
+- Web/Tech
+---
+
+<p>
+While the world doesn't need another <a href="http://www.google.com/search?q=weblog+templates">weblog template</a> site, it sure could use a web app template site. Not a template system like <a href="http://smarty.php.net/">Smarty</a>, but a site where a good web designer with some knowledge of the types of screens (login, form pages, user pages, tag soup pages, etc) that a web developer would need could be prepared. Nothing sucks more than having an idea, building it in a couple hours,  and then having to scramble to find something that doesn't look like total poop.
+</p>
+<p>
+I'm not saying we need a bunch of <a href="http://binarybonsai.com/kubrick/">Kubrick</a> web apps cluttering the landscape, but I'd prefer to use a nice set of form elements and styled pages that take into account features of web apps that don't exist in weblogs, than running with my typical Helvetica/White Box/<a href="http://www.simplebits.com/notebook/2004/09/08/centering.html">Auto-Margined And Centered</a>/Floating On A Sea Of #C6C6C6 design technique.
+</p>

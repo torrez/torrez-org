@@ -1,0 +1,29 @@
+---
+title: Home For Christmas
+date: 2004-12-25 00:00:00 -08:00
+---
+
+<h4>Bags</h4>
+<p>
+When I saw <a href="http://www.flickr.com/photos/mathowie/2524216/">this picture</a> on Matt's photo blog I hoped that he'd gotten an ACME bag for Christmas. But no, it was his wife Kay's. I've wanted an ACME looking bag for a while but they are a bit too feminine, I guess.  I think I annoy my girlfriend with all the "Ooh, look at that bag! Too bad it's for women." I do when we're out shopping. If I were a woman I would probably own a lot of bags, probably as many shoes as I do.
+</p>
+<p>
+Oops.
+</p>
+<h4>Wikipedia</h4>
+<p>
+The <a href="http://en.wikipedia.org/">Wikipedia</a> has settled quite a few arguments this Christmas. We just found out that <a href="http://en.wikipedia.org/wiki/Vinko_Bogataj">Vinko Bogataj</a> (the "agony of defeat" guy from ABC's Wide World of Sports) is alive and loves woodcarving.
+</p>
+<p>
+My great-uncle was in <a href="http://en.wikipedia.org/wiki/Battle_of_the_Kasserine_Pass">The Battle of the Kasserine Pass</a> and the <a href="http://en.wikipedia.org/wiki/El_Alamein">Second Battle of El Alamein</a>. It was cool to be able to read about something I hadn't planned on learning about.
+</p>
+<p>
+I got some great presents this year, but the best had to be my dad healthy and back to his old self. After dinner our family drank tea and had <a href="http://en.wikipedia.org/wiki/Stollen">Stollen</a> while listening to Hawaiian <a href="http://en.wikipedia.org/wiki/Lap_steel_guitar">Lap Steel Guitar</a>.
+</p>
+<p>
+Gotta love that Wikipedia.
+</p>
+<h4>ITMS</h4>
+<p>
+My new obsession is the ITunes music store. Specifically the audio-books. I listened to <a href="http://www.kimsoft.com/polwar.htm">Sun Tzu's "The Art of War"</a> on the way to my parents' house. The text is freely available to be read online, and I've tried to get through it several times, but listening in the car turned out to be the best way to get through it. I also picked up a couple episodes of <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?artistId=2093320">This American Life</a>. I recommend this <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=2838079">MacGyver themed one</a> .
+</p>

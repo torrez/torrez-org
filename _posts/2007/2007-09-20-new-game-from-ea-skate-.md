@@ -1,0 +1,16 @@
+---
+title: 'new game from ea: skate.'
+date: 2007-09-20 00:00:00 -07:00
+categories:
+- Games
+---
+
+<p><a href="http://www.somebits.com/weblog/culture/games/skate.html">Nelson with a review of skate.</a> </p>
+
+<p>The best part about <a href="http://skate.share.ea.com/">skate.</a> is the controls. I had heard a few skaters featured in the game praise it for being "more like actual skating" which I thought was just a way of saying "they paid me to say that", but it's true. I skated for most of my teens and I'm impressed with how innovative the controls are. I can't believe nobody had thought of that before.</p>
+
+<p>People had been saying for years that Tony Hawk was getting long in the tooth and I kept expecting them to innovate the brand and refresh it, but it just kept missing. The last version I bought was <a href="http://www.activision.com/microsite/thug/">THUG</a>, and they just seemed to be looking at the video game landscape at the time and integrating whatever was happening&mdash;in THUG's case that was Grand Theft Auto.</p>
+
+<p><a href="http://www.activision.com/en_US/game_specific/6b075dd7-c99f-4062-9e60-db4816265c16.html">Tony Hawk's Project 8</a> (a fancy way of saying they'd made eight of them) had a pretty cool Matrix-inspired slow-motion trick feature, but I rarely used it when I was really playing. In the end all you really want to do is skate and find good lines, all the extra hoop jumping is just noise.</p>
+
+<p>It's worth giving skate. a chance if you gave up on skate games and Tony Hawk.</p>

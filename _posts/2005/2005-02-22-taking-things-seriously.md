@@ -1,0 +1,16 @@
+---
+title: Taking Things Seriously
+date: 2005-02-22 00:00:00 -08:00
+categories:
+- Weblogs
+---
+
+<p>
+<a href="http://www.kottke.org/about/patron/"><img src="http://torrez.org/images/kmp-button.gif" alt="I am a kottke.org micropatron" width="150" height="70" border="0" /></a>
+</p>
+<p>
+The idea of Jason doing this even scares <em>me</em> a little. Of course, if I quit my job to write on this site full-time I'd be looking for a new job by noon.
+</p>
+<p>
+Good luck to Jason and anyone who tries this in the future.
+</p>

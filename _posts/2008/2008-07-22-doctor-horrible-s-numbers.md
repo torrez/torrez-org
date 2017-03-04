@@ -1,0 +1,10 @@
+---
+title: Doctor Horrible's Numbers
+date: 2008-07-22 00:00:00 -07:00
+categories:
+- Favorites
+---
+
+<p><a href="http://blog.jeffreymcmanus.com/896/whats-in-it-for-doogie-howser/">Jeffrey McManus</a> breaks down the numbers of <a href="http://www.drhorrible.com/">Dr. Horrible's Sing-Along Blog</a> and <a href="http://whedonesque.com/comments/17017#244802">Joss Whedon himself responds</a> confirming the numbers are pretty close.</p>
+
+<p>If you missed the free showing, and can deal with musicals, I promise you it's <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewTVSeason?id=284353399&amp;s=143441">worth the $4</a>. </p>

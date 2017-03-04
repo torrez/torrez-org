@@ -1,0 +1,19 @@
+---
+title: Gmail Links
+date: 2004-04-26 00:00:00 -07:00
+---
+
+<p>
+For those of you coming from <a href="http://www.salon.com/tech/feature/2004/04/26/gmail/index.html">the Salon article</a>, here are a few Gmail links that I have seen recently:
+</p>
+<ol>
+    <li><a href="http://www.bradlands.com/weblog/archives/2004_04.shtml#000201">Gmail design flaw in security</a>.</li>
+    <li><a href="http://gmailgems.blogspot.com/">Gmail Gems</a> a weblog about gmail.</li>
+    <li><a href="http://www.gmailforums.com/">Gmail Forums</a> an unofficial gmail user discussion board</a>.</li>
+</ol>
+<p>
+Also, I would like to say as a gmail beta user, I've been absolutely thrilled with how well it works and was designed. The fact that Google's computers are sensing the content on the page doesn't bother me in the slightest.
+</p>
+<p>
+It's too bad that the only way to raise awareness for <strong>your</strong> cause and <strong>your</strong> own profile is to be outraged on my behalf.
+</p>

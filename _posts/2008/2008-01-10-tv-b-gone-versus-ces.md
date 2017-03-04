@@ -1,0 +1,14 @@
+---
+title: TV-B-Gone versus CES
+date: 2008-01-10 00:00:00 -08:00
+categories:
+- Favorites
+---
+
+<p><a href="http://jwz.livejournal.com/830604.html">TV-B-Gone versus CES</a>. Very funny, but I gotta feel sorry for these people. I worked at a few trade shows, and it's incredibly hard work to be up there presenting live over and over again.</p>
+
+<p>A memory I cannot shake every time I see the word "hierarchical" is our emcee going crazy every show having to say that word. I was around when they wrote the copy and I remember when he first tried the line it just didn't come out right. Hi-yer-archik-cull.</p>
+
+<p>After about the 90th time the word had become an entirely odd moment in an otherwise smooth show. His body would animate into these weird convulsions and he'd sometimes kick his foot forward like one would use body english on a wayward bowling ball. It's funny now, but back then it was painful to watch.</p>
+
+<p>(It turns out this is the folks at <a href="http://gizmodo.com/343348/confessions-the-meanest-thing-gizmodo-did-at-ces">Gizmodo</a> having fun)</p>

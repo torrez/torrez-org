@@ -1,0 +1,8 @@
+---
+title: Indie Relief
+date: 2010-01-19 00:00:00 -08:00
+categories:
+- Consumerism
+---
+
+<p><a href="http://www.indierelief.com/">Indie Relief</a> is a Mac software fundraiser for Haiti. All proceeds from today's (January 20th) purchases will go to charities chosen by the developers. Such a great idea. Buy something!</p>

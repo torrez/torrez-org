@@ -1,0 +1,12 @@
+---
+title: The Start Conference
+date: 2008-06-11 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p>This looks interesting, <a href="http://www.thestartconference.com/">The Start Conference</a>:</p>
+
+<p><em>Start is a one-day conference in San Francisco designed for smart, talented Web people to take hold of their ideas, follow their dreams, and start their own companies.</em></p>
+
+<p>That's one sweet site, too. See you there.</p>

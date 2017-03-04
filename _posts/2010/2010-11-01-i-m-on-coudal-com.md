@@ -1,0 +1,14 @@
+---
+title: I'm On Coudal.com
+date: 2010-11-01 00:00:00 -07:00
+categories:
+- Weblogs
+---
+
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://torrez.typepad.com/.a/6a00d8341bfc1653ef013488a20dfb970c-pi" alt="222222.gif" title="222222.gif" border="0" width="72" height="72" /></p>
+
+<p>When Steve at <a href="http://coudal.com/">Coudal.com</a> asked me to be the guest editor for links I was initially hesitant. I used to consider myself a pretty good source for finding interesting stuff. My day was so predictable that I knew I'd have an hour or so in the morning to check my newsreader before meetings started. An hour or so during meetings to check again. And maybe during a few minutes in between meetings I'd write a quick blog post about something interesting I'd seen.</p>
+
+<p>When I left my job in January so did my free time in between meetings. Now every day is a race to see how much work I can cram into the 8 hours or so I have to work before running home to make dinner, clean up, and get to bed.</p>
+
+<p>So for the next month I've carved an hour or so into my schedule to get back into gathering links. I've missed out on so much good stuff, both software related and otherwise that I'm hoping November will turn out to be very productive for this old weblog of mine.</p>

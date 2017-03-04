@@ -1,0 +1,14 @@
+---
+title: Everyday Engineering
+date: 2007-10-03 00:00:00 -07:00
+categories:
+- Design
+---
+
+<p><a href="http://mocoloco.com/archives/004586.php">This book just made my heart flutter</a>. Called "<a href="http://www.amazon.com/Everyday-Engineering-What-Engineers-See/dp/081186054X/nutshell-20" title="buy now on Amazon">Everyday Engineering</a>" it examines the engineering and planning that goes into the world around us. As a self-taught engineer this is exactly the sort of subject I spend hours thinking about.</p>
+
+<p>A memory that always sticks out in my head about discovery is being a kid and sitting in the front seat with my dad as we drove along a paved mountain road. I had noticed the reflectors were buried beneath the surface of the road, with a slope cut in the direction the oncoming traffic so the reflector would be visible.</p>
+
+<p>For miles I stared at these things until it finally dawned on me what they were for. Since I grew up in the middle of California's Central Valley, snow is not a typical occurrence. The reason the reflectors were buried beneath the ground is so that snow-plows can scrape the surface of the road without ripping up the reflectors. </p>
+
+<p>It was incredibly pleasing to have come up with the solution, and I still spend a lot of time staring at structures to determine why and how they work.</p>

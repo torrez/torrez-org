@@ -1,0 +1,12 @@
+---
+title: Dell From The Inside
+date: 2010-06-29 00:00:00 -07:00
+categories:
+- Computers
+---
+
+<p><a href="http://www.metafilter.com/93279/Window-to-Dell-Decline#3159099">This comment on Metafilter</a> outlines from the inside how a successful hardware company can fail by focusing on short-term budget goals. The example of diverting phone calls to a certain customer support department because it saves you $2.47 is the sort of thinking that gets someone a bonus for the quarter because they hit their number. What a waste.</p>
+
+<p>It also reminded me of a series of calls I made to Apple support in the early 2000's where I was mocked, hung up on, and finally, after many calls was able to get my computer fixed. Does anyone remember the joke that was Apple customer support? </p>
+
+<p>The other bit in that comment that sticks out is how (the poster's estimation) 90% of the calls were actually software (Windows) related. Doomed from the start.</p>

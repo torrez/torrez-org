@@ -1,0 +1,15 @@
+---
+title: Six Types of Stars on Twitter
+date: 2012-04-25 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<ol>
+<li>I liked what you said.</li>
+<li>I loved what you said.</li>
+<li>I want people to see this <a href="https://twitter.com/#!/activity">on Twitter</a> or <a href="http://stellar.io">Stellar.io</a>.</li>
+<li>I liked what you said to me, but I don’t have a very good reply and the train is coming.</li>
+<li>I don’t really get what you said to me, but it appears to be a joke.</li>
+<li>Accident. I don’t know how to undo it.</li>
+</ol>

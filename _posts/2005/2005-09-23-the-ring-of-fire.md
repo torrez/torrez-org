@@ -1,0 +1,13 @@
+---
+title: The Ring of Fire
+date: 2005-09-23 00:00:00 -07:00
+categories:
+- Music
+---
+
+<p>
+I did <strong>not</strong> know the back-story of the song "Ring of Fire". It makes me love Johnny, June, and the song that much more.
+</p>
+<p>
+I clipped the story out of an episode of TAL and put it <a href="http://www.torrez.net/Sarah%20Vowell%20-%20Johnny%20Cash%20and%20June%20Carter%20Cash.mp3">here temporarily</a>. Shh. Though I suppose you could use that <a href="http://www.thislife.org/ra/247.ram">yucky real media</a> and fast-forward to the last act.
+</p>

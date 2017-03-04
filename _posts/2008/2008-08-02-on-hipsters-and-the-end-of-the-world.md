@@ -1,0 +1,12 @@
+---
+title: On Hipsters And The End Of The World
+date: 2008-08-02 00:00:00 -07:00
+categories:
+- Current Affairs
+---
+
+<p>I happened to read two articles on sub-cultures on the same day. A piece on <a href="http://www.nytimes.com/2008/08/03/magazine/03trolls-t.html?pagewanted=all">Internet Trolls</a> from the NY Times and Adbusters' article on <a href="http://www.adbusters.org/magazine/79/hipster.html">Hipsters</a>. Both affected me enough to roll around in my head all day while I worked.</p>
+
+<p>It's possible that with our little girl on the way my attention to "the future world" is a bit more focused. We're no longer planning a couple years in advance but decades, and of course, everything matters a little bit more.</p>
+
+<p><a href="http://www.al3x.net/2008/07/on-hipsters.html">So Alex wrote a very thoughtful reaction</a> to the hipsters article (I initially <a href="http://twitter.com/al3x/statuses/874190470">found it by way of his twitter post</a>) and it was met with thoughtful responses. It's a nice post and conversation, and somehow ties in the with the NY times troll article and even <a href="http://powazek.com/posts/1040">Derek's post on comments</a> that has also been on my mind lately (gee, I think a lot).</p>

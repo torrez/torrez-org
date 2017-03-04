@@ -1,0 +1,8 @@
+---
+title: Mitt Romney Gets Pranked By His Son
+date: 2008-01-18 00:00:00 -08:00
+categories:
+- Politics
+---
+
+<p>Matt Romney (Mitt's son) <a href="http://www.youtube.com/watch?v=wGf87FDN9L0">pranked his dad in a very funny way</a>. I won't spoil the joke but it's pretty funny. thanks, <a href="http://www.omarlee.org/">omar</a>.</p>

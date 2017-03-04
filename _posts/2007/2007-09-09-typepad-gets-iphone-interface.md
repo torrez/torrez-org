@@ -1,0 +1,10 @@
+---
+title: TypePad Gets iPhone Interface
+date: 2007-09-09 00:00:00 -07:00
+categories:
+- Weblogs
+---
+
+<p>You can now access TypePad with <a href="http://everything.typepad.com/blog/2007/09/introducing-typ.html">a streamlined, built for iPhone, interface</a>.</p>
+
+<p>If you're reading this on an iPhone, <a href="http://www.typepad.com/t/app-iphone">head over there now</a>.</p>

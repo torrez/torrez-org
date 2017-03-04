@@ -1,0 +1,16 @@
+---
+title: Audiobooks
+date: 2005-06-10 00:00:00 -07:00
+categories:
+- Books
+---
+
+<p>
+Matt's <a href="http://www.lifehacker.com/software/entertainment/how-to-enjoy-audiobooks-105903.php">suggestions for enjoying audiobooks</a> are dead on. I am partial to non-fiction as I don't trust the tone or timing of most people with fiction. But iTunes usually gives me a pretty good idea on what to expect.
+</p>
+<p>
+I have two more links for audiobooks you might enjoy. Free and nearly free ones. First, there's the <a href="http://www.gutenberg.org/audio/">Project Gutenberg audiobooks</a> read by computers or people. I'm not so sure I want Zarvox reading my Mark Twain, but I do like the concept.
+</p>
+<p>
+Next there's the <a href="http://www.telltaleweekly.org/">Telltale Weekly</a> that is very close to free (starting at 25&cent; a book).
+</p>

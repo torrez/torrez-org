@@ -1,0 +1,8 @@
+---
+title: Anti-Piracy Ad From "The IT Crowd"
+date: 2008-01-09 00:00:00 -08:00
+categories:
+- Favorites
+---
+
+<p><a href="http://log.maniacalrage.net/post/23374510">An anti-piracy ad from "The IT Crowd"</a>. Excellent thumbnail frame-grab on this one.</p>

@@ -1,0 +1,11 @@
+---
+title: Fuzzy Clock
+date: 2004-07-12 00:00:00 -07:00
+---
+
+<p>
+I found this nice menu bar app called a "<a href="http://www.objectpark.org/FuzzyClock.html">FuzzyClock</a>" on a <a href="http://www.gizmodo.com/archives/word-clock-017495.php">Gizmodo post about WordClocks</a>.
+</p>
+<p>
+I installed it, not expecting much, and found myself glancing at it more often than the built-in clock. There is something about words versus numbers that keeps my eye looking no further than "quarter to twelve".
+</p>

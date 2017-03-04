@@ -1,0 +1,19 @@
+---
+title: Dropcash Plugin For MovableType
+date: 2004-09-09 00:00:00 -07:00
+---
+
+<p>
+<a href="http://www.rayners.org/2004/09/08/dropcash_plugin_10/index.php">David Rayners wrote a MovableType Dropcash plugin</a> and then held it for ransom through Dropcash until he raised $30. Though his PayPal account is new, and he couldn't accept the payments to reflect on his Dropcash page, he released his plugin as soon as he hit $30.
+</p>
+<a href="http://jayseae.cxliv.org/2004/09/08/entry_notifications.html">Chad Everett</a> did something similar with a feature for his <a href="http://jayseae.cxliv.org/movable_type/notifier/">MT-Notifier</a> plugin.
+</p>
+<p>
+I think it's a great way for people to get paid for their work for specific things, rather than general tip-jars that nobody seems to ever want to drop money into.
+</p>
+<p>
+Also, <a href="http://www.guardian.co.uk/online/story/0,3605,1299697,00.html">Dropcash was mentioned in this Guardian story</a>. Along with some words from me.
+</p>
+<p>
+I've never used the word 'appeals' in that context. Strange how it showed up in there. Also, you don't need a TypePad blog to be able to raise money, just a TypeKey account and Jason Kottke co-created it with me.
+</p>

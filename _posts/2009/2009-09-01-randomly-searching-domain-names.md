@@ -1,0 +1,8 @@
+---
+title: Randomly Searching Domain Names
+date: 2009-09-01 00:00:00 -07:00
+categories:
+- Web/Tech
+---
+
+<p>Randomly searching domain names is <a href="http://www.mrinspector.net/">still good fun</a>.</p>

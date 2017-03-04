@@ -1,0 +1,10 @@
+---
+title: San Francisco Bay Wind Pattern Streaklines
+date: 2008-01-04 00:00:00 -08:00
+categories:
+- Favorites
+---
+
+<p>Check out this <a href="http://sfports.wr.usgs.gov/wind/streaklines.shtml">crazy Java applet</a> that displays the current wind patterns over the Bay Area. I am usually a weather doubter ("OH it can't be that bad, they just want to scare you!") but today I got the full force of the storm, saw lots of damage and even got lifted a bit while walking home.</p>
+
+<p>It's one thing to drive in bad weather, it's another to have to take public transportation. I gave up and came back home. The last thing I ever want to do is get stranded in Sausalito. <a href="http://weblog.muledesign.com/">link sent by Erika</a></p>

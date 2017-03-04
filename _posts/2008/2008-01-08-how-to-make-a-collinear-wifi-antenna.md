@@ -1,0 +1,8 @@
+---
+title: How To Make A Collinear WiFi Antenna
+date: 2008-01-08 00:00:00 -08:00
+categories:
+- Hacking
+---
+
+<p><a href="http://www.inventiondb.com/browse.php?cubeid=1041">How to make a collinear WiFi antenna</a>. I love hacking projects that require a ball point pen.</p>

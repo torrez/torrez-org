@@ -1,0 +1,13 @@
+---
+title: No Pixies For Me
+date: 2004-04-30 00:00:00 -07:00
+categories:
+- Music
+---
+
+<p>
+I bought a ticket for the first day of Coachella. I was going to drive up, see the Pixies and then haul ass out of there.
+</p>
+<p>
+Unfortunately, I have to work. So this ticket is for sale. $100. Hopefully you work in or around Marina del Rey to come pick it up.
+</p>
