@@ -46,5 +46,5 @@ exclude:
 kramdown:
   input: GFM
 gems:
-  - jekyll-sitemap
-  - jekyll-feed
+- jekyll-sitemap
+- jekyll-feed
