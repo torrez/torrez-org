@@ -21,7 +21,7 @@ defaults:
   values:
     layout: post
     is_post: true
-cachebust: '20170307'
+cachebust: 20170307
 description: A weblog by Andre Torrez.
 author: Andre Torrez
 baseurl: 
