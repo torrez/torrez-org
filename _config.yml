@@ -24,7 +24,7 @@ defaults:
 cachebust: '20170307'
 description: A weblog by Andre Torrez.
 author: Andre Torrez
-baseurl: 
+baseurl:
 url: http://torrez.org
 permalink: "/:year/:month/:title/"
 twitter_username: torrez
@@ -33,8 +33,6 @@ github_username: torrez
 email_address: andre@torrez.org
 exclude:
 - _site
-- Gemfile
-- Gemfile.lock
 - Gruntfile.js
 - node_modules
 - package.json
