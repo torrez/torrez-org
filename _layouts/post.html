@@ -3,3 +3,17 @@ layout: default
 ---
 
 {% include post.html %}
+
+<footer class="post-footer">
+  <h2>navigation</h2>
+  <div class="post-navigation">
+    {% if page.previous.url %}
+      <p class="previous-post-link">before this i wrote <a href="{{page.previous.url}}">{{page.previous.title}}</a></p><!--
+ -->{% endif %}<!--
+ -->{% if page.previous.url and page.next.url %}. {% endif %}
+    {% if page.next.url %}
+      <p class="next-post-link">after this i wrote <a href="{{page.next.url}}">{{page.next.title}}</a></p><!--
+ -->{% endif %}<!--
+ -->{% if page.previous.url and page.next.url %}.{% endif %}
+  </div>
+</footer>

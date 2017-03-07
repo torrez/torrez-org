@@ -9,7 +9,7 @@ regenerate: true
 {% assign sorted_categories = site.categories | sort 'downcase' %}
 {% for category in sorted_categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h3 id="{{ category_name | slugize }}">{{ category_name | downcase }}</h3>
+    <h3 id="{{ category_name | slugify }}">{{ category_name | downcase }}</h3>
     <ul>
       {% for post in site.categories[category_name] %}
         <li>

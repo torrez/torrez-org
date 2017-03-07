@@ -86,6 +86,10 @@
   img {
     height: auto;
   }
+
+  p:first-child img:only-child {
+    margin-top: 0 !important;
+  }
 }
 
 .post-footer {
