@@ -23,7 +23,7 @@ defaults:
     is_post: true
 description: A weblog by Andre Torrez.
 author: Andre Torrez
-baseurl: ''
+baseurl: 
 url: localhost
 permalink: "/:year/:month/:title/"
 twitter_username: torrez
