@@ -7,7 +7,7 @@ categories:
 
 Ooblets is just about the cutest RPG I have ever seen.
 
-![https://ooblets.com/images/nye1.gif]
+![people dancing](https://ooblets.com/images/nye1.gif)
 
 > Ooblets is adorable, of course; one need only watch the teaser above to see that. But playing the demo reveals that it’s got the gameplay to back that up, even in the early build we played on the GDC showfloor.
 
