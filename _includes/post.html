@@ -26,7 +26,7 @@ homepage's `for post in site.posts` loop.
 {% endif %}
 
 <div class="post">
-  <div class="post-category-icon category-icon">{% if category_slug %}<a href="{{ '/' | prepend: site.baseurl }}/categories#{{ category_slug }}"><div class="icon icon-category-{{ category_slug }}">{% include svg/category-{{ category_slug }}.svg %}</div></a>{% endif %}</div><!--
+  <div class="post-category-icon category-icon">{% if category_slug %}<a href="{{ site.baseurl }}/categories#{{ category_slug }}"><div class="icon icon-category-{{ category_slug }}">{% include svg/category-{{ category_slug }}.svg %}</div></a>{% endif %}</div><!--
 --><div class="post-date">
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       <span class="post-date-weekday">{{ post.date | date: "%A" }}</span><!--
