@@ -1,0 +1,18 @@
+# Workflow
+.grunt
+.sass-cache
+*.map
+.jekyll-metadata
+bower_components
+node_modules
+
+.tmp
+.ftppass
+assets
+_site
+_deploy*.yml
+.deploy
+_drafts/
+
+# OS-generated files
+.DS_Store
