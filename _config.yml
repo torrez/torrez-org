@@ -1,6 +1,7 @@
 ---
 title: torrez.org
 timezone: America/Los_Angeles
+cachebust: 2017-03-07
 collections:
   posts:
     title: Posts
@@ -23,7 +24,8 @@ defaults:
     is_post: true
 description: A weblog by Andre Torrez.
 author: Andre Torrez
-baseurl: 
+baseurl:
+url: http://torrez.org
 permalink: "/:year/:month/:title/"
 twitter_username: torrez
 twitter_blog_username: andre_torrez
