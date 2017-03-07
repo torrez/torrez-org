@@ -24,7 +24,7 @@ defaults:
 cachebust: '20170307'
 description: A weblog by Andre Torrez.
 author: Andre Torrez
-baseurl:
+baseurl: 
 url: http://torrez.org
 permalink: "/:year/:month/:title/"
 twitter_username: torrez
