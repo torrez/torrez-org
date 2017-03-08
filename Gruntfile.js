@@ -70,7 +70,7 @@ module.exports = function(grunt) {
           expand: true,
           cwd: '_src/svg/kameleon',
           src: ['**/*.svg'],
-          dest: '_includes/svg'
+          dest: 'assets/svg/'
         }]
       }
     },

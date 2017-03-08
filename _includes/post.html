@@ -21,12 +21,31 @@ homepage's `for post in site.posts` loop.
   {% assign post = page %}
 {% endif %}
 
+{% comment %}
+<!--
+
+Grab the icon if there is one, and don't if there isn't. Jekyll lacks a `if file
+exists` function, so we get the slug of this category and the expected file name
+and then loop through the static_files collection that Jekyll automatically
+creates. If there's a match, we populate the variable. If not, nothing gets
+shown.
+
+-->
+{% endcomment %}
+
 {% if post.categories %}
-  {% assign category_slug = post.categories | first | slugify %}
+  {% assign category_name = post.categories | first %}
+  {% assign category_slug = category_name | slugify %}
+  {% capture category_icon_path %}/assets/svg/category-{{ category_slug }}.svg{% endcapture %}
+  {% for static_file in site.static_files %}
+    {% if static_file.path == category_icon_path %}
+      {% capture category_icon %}<img src="{{ category_icon_path }}" alt="icon for the {{ category_name }} category">{% endcapture %}
+    {% endif %}
+  {% endfor %}
 {% endif %}
 
 <div class="post">
-  <div class="post-category-icon category-icon">{% if category_slug %}<a href="{{ site.baseurl }}/categories/#{{ category_slug }}"><div class="icon icon-category-{{ category_slug }}">{% include svg/category-{{ category_slug }}.svg %}</div></a>{% endif %}</div><!--
+  <div class="post-category-icon category-icon">{% if category_icon %}<a href="{{ site.baseurl }}/categories/#{{ category_slug }}"><div class="icon icon-category-{{ category_slug }}">{{ category_icon }}</div></a>{% endif %}</div><!--
 --><div class="post-date">
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       <span class="post-date-weekday">{{ post.date | date: "%A" }}</span><!--
