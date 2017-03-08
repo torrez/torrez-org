@@ -5,7 +5,7 @@ categories:
 - games
 ---
 
-Ooblets is just about the cutest RPG I have ever seen.
+[Ooblets](https://ooblets.com/) is just about the cutest RPG I have ever seen.
 
 ![people dancing](https://ooblets.com/images/nye1.gif)
 
