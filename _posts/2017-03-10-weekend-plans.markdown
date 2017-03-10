@@ -25,6 +25,6 @@ It's not about stuff (it's a little about the money :sob:) but it has mainly jus
 
 Our kids have been remarkable and I am proud at how good they handled all of this. I just want to get back to normal. So when the teller directs me to a banker so I can order new checks I sit down and we walk through the order. There's a delay while her computer is working on something.
 
-"Got any plans this weekend?" She asks.
+"Got any plans this weekend?"
 
 "No, none," I smile, with a face of real relief, "Just hanging out around the house."
