@@ -5,9 +5,9 @@ categories:
 - Home
 ---
 
-"Got any plans this weekend?" The banker asks me. I think there are prompts on the computer screen when there's a delay to tell the banker they should ask me a question. I've come in here three times now to get temporary checks because our regular checks are packed away and I can't find them.
+"Got any plans this weekend?" The banker asks me. I think there are prompts on the computer screen when there's a delay to tell the banker they should ask me a question. I've come in here three times now to get temporary checks because our regular checks are packed away and I can't find them. They ask me every time.
 
-I'm excited, and not thinking this through, I reply, "Yeah! We're moving into our house this weekend."
+I'm excited and not thinking this through. I reply, "Yeah! We're moving into our house this weekend."
 
 "Oh, did you just buy a house?"
 
@@ -17,7 +17,7 @@ That's why I'm here at the bank. I need a check to pay the water heater installe
 
 "Oh, I'm so sorry!" She's giving me the face now I've seen many times in the past 8 months. I instantly regret starting this conversation because now I have to wrap it up so I can get my checks and get back to the house. I explain a bit about how the fire happened and how all our stuff (all of it!) has been in boxes all these months.
 
-I wrap it up on a happy note. I mean, it's a really happy thing to be moving back even though the cause was tragic. I have to keep reminding myself that this was a really fucked up thing that happened and it's okay to feel bad about it.
+I wrap it up on a happy note. I mean, it's a really happy thing to be moving back even though the cause was tragic. I have to keep reminding myself that this was a really fucked up thing that happened and it's okay to feel bad about it though.
 
 And while the insurance has been great the debt we've incurred is substantial.  You never realize how much "stuff" you have until you leave it all and pack up a car trunk with the basics. Over the span of 8 months you begin to create a mirror world of your old life in stuff: scissors, a bucket, tape measure, house shoes, extension cords, rain coats, rain boots, dress shoes. I had to buy a new pair of leather shoes because I was wearing Converse the day the fire happened. This kills me because I have GREAT shoes. I regret not grabbing my boots that night. I have dumb regrets like this all the time.
 
