@@ -5,7 +5,7 @@ categories:
 - Home
 ---
 
-"Got any plans this weekend?" The banker asks me. I think there are prompts on the computer screen when there's a delay to tell the banker they should ask me a question. I've come in here three times now to get temporary checks because our regular checks are packed away and I can't find them. They ask me every time.
+"Got any plans this weekend?" The banker asks me. I think there are prompts on the computer screen when there's a delay to tell the banker they should ask me a question. I've come in here three times now to get temporary checks because our regular checks are packed away and I can't find them.
 
 I'm excited and not thinking this through. I reply, "Yeah! We're moving into our house this weekend."
 
