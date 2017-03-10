@@ -1,6 +1,8 @@
 ---
 title: Weekend Plans
 date: 2017-03-10 09:43:00 -08:00
+categories:
+- Home
 ---
 
 "Got any plans this weekend?" The banker asks me. I think there are prompts on the computer screen when there's a delay to tell the banker they should ask me a question. I've come in here three times now to get temporary checks because our regular checks are packed away and I can't find them.
