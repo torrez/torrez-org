@@ -21,9 +21,9 @@ I wrap it up on a happy note. I mean, it's a really happy thing to be moving bac
 
 And while the insurance has been great the debt we've incurred is substantial.  You never realize how much "stuff" you have until you leave it all and pack up a car trunk with the basics. Over the span of 8 months you begin to create a mirror world of your old life in stuff: scissors, a bucket, tape measure, house shoes, extension cords, rain coats, rain boots, dress shoes. I had to buy a new pair of leather shoes because I was wearing Converse the day the fire happened. This kills me because I have GREAT shoes. I regret not grabbing my boots that night. I have dumb regrets like this all the time.
 
-It's not about stuff (it's a little about the money :sob:) but it has mainly just been how emotionally draining this has been on all of us. I'm tired at looking for silver-linings in everything. Yes, it's great we have gigabit ethernet now and a new roof and new walls and floors, but I'd trade it all in a second to be back here on that Friday so my daughter could have her birthday in the backyard at our house the very next day.
+It's not about stuff (it's a little about the money :sob:) but it has mainly just been how emotionally draining this has been on all of us. I'm tired at looking for silver-linings in everything. Yes, it's great we have a new roof and new walls and floors and more electrical plugs scattered around the house, but I'd trade it all in a second to be back here on that Friday to somehow stop the fire from happening so my daughter could have her birthday in the backyard the very next day.
 
-Our kids have been remarkable and I am proud at how good they handled all of this. I just want to get back to normal. So when the teller directs me to a banker so I can order new checks I sit down and we walk through the order.
+Our kids have been remarkable and I am proud at how good they handled all of this. I just want to get back to normal. So when the teller directs me to a banker so I can order new checks I sit down and we walk through the order. There's a delay while her computer is working on something.
 
 "Got any plans this weekend?" She asks.
 
