@@ -5,7 +5,7 @@ categories:
 - Work
 ---
 
-/A firsthand look at what it takes to be photographed at the wildly popular team collaboration platform./
+*A firsthand look at what it takes to be photographed at the wildly popular team collaboration platform.*
 
 Sometime last year a photographer was in the office snapping pictures. I didn’t think much about it until one day a friend messaged me that I was on Ars Technica.
 
@@ -19,7 +19,7 @@ Then without doing any more work on my part, I showed up on [TechCrunch](https:/
 
 If you’re writing a piece about Slack, please use my face and the faces of my co-workers! [Slack Assets](https://brandfolder.com/slack) 
 
-/Behind the scenes:/ that balloon in the shape of a 1 is for my co-worker who had just completed their first year at Slack. The guy sitting to my left is one of my favorite people at Slack!
+*Behind the scenes:* that balloon in the shape of a 1 is for my co-worker who had just completed their first year at Slack. The guy sitting to my left is one of my favorite people at Slack!
 
 That guy just behind me is also pretty great. He left recently and showed up [on TechCrunch himself](https://techcrunch.com/2017/03/15/serial-founder-and-former-slack-pm-simon-vallee-is-starting-a-personal-productivity-company/)! Look at that, me and Simon both on TechCrunch for things. Amazing.
 
