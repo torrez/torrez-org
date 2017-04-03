@@ -18,4 +18,3 @@ Lennard Zinn's [Zinn & the Art of Road Bike Maintenance](http://amzn.to/2o0z6vy)
 So today I took the bike apart, scraped the gunk off the chain, cleaned the cassette with a toothbrush, oiled the chain, and just like that I could feel the difference riding around my neighborhood.
 
 I can't recommend Lennard's book more. It's highly readable and there was very little mystery about what he was talking about thanks to the many illustrations. Where I previously felt a little fearful of unscrewing something and not knowing how to screw it back on (take pictures!) I feel like I leveled up a bit and want to try more projects in the future.
-
