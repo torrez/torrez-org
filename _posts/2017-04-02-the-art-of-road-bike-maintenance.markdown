@@ -1,6 +1,8 @@
 ---
 title: The Art of Road Bike Maintenance
 date: 2017-04-02 16:49:00 -07:00
+tags:
+- Home
 ---
 
 I've been riding my bike to work for almost a year now. Five miles to work and five miles back, five days a week, which means I'm getting somewhere around 100 to 150 miles a month on it. Sometimes I can't ride, but I try to ride in as much as I can.
