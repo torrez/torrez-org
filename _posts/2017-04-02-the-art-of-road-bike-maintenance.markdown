@@ -7,7 +7,7 @@ categories:
 
 I've been riding my bike to work for almost a year now. Five miles to work and five miles back, five days a week, which means I'm getting somewhere around 100 to 150 miles a month on it. Sometimes I can't ride, but I try to ride in as much as I can.
 
-I'll even ride in the pouring rain because it's not that much harder than not riding in the rain, but very few people ride when it's that wet out so that means a little more elbow room at stop lights. Plus it's easier to stay cool when climbing the hills.
+I'll even ride in the pouring rain because it's not that much harder than not riding in the rain, but very few people ride when it's wet out so that means a little more elbow room at stop lights. Plus it's easier to stay cool when climbing the hills.
 
 So all this riding (and rain/mud riding) has not been great for my bike. I paid for a couple tuneups to replace some broken parts, but I didn't realize how much I'd been neglecting my bike until I got it up on a bike stand and—wow, that's not good.
 
