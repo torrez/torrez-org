@@ -11,7 +11,7 @@ I'll even ride in the pouring rain because it's not that much harder than not ri
 
 So all this riding (and rain/mud riding) has not been great for my bike. I paid for a couple tuneups to replace some broken parts, but I didn't realize how much I'd been neglecting my bike until I got it up on a bike stand and—wow, that's not good.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=andretorrez-20&marketplace=amazon&region=US&placement=193771537X&asins=193771537X&linkId=2234edf46c9dbbe2bbe34bdd6d2c5f15&show_border=false&link_opens_in_new_window=true"></iframe>
+[![Zinn & the Art of Road Bike Maintenance](/uploads/51vCsY%20fVBL.jpg)](http://amzn.to/2o0z6vy)
 
 Lennard Zinn's [Zinn & the Art of Road Bike Maintenance](http://amzn.to/2o0z6vy) to the rescue! I spent a couple of nights reading and the more I read the more I realized the maintenance part of it is terrifyingly easy to do. In fact it's almost a bit embarrassing to admit that I wasn't doing it.
 
