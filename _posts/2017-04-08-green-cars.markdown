@@ -21,7 +21,7 @@ I'm tempted to give my son my phone but we've stopped doing that on drives. I th
 
 And then I thought, "Maybe I should help…"
 
-"Hey Mark," I say, "How about this: how about I give you one dollar for every green car you see."
+"Hey Mark," I say, "How about this: how about I give you one dollar for every green car you can spot."
 
 Three bucks is a great deal to keep the kid entertained for almost a half hour. Heck, if he sees $5 worth of cars that'd mean he doubled his weekly allowance and that'd be cool for him. We've been giving him chores and work around the house and so far he has the ability to earn $5 a week.
 
