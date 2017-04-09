@@ -37,7 +37,7 @@ There are so many green cars around that he's missing them. Amber is laughing ea
 
 "Okay…ELEVEN!" he points to a forest green Subaru. I forgot about Subarus. They make a lot of goddamn forest green Subarus.
 
-Every stop light has me scanning cars and trying to will the light to change. Forty cars race past us and several are green. He sees a few. I'm almost home.
+Every stop light has me scanning cars and trying to will the light to change faster. Forty cars race past us and several are green. He sees a few. I'm almost home.
 
 "TWELVE! THIRTEEN! FOURTEEN!"
 
