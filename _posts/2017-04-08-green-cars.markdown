@@ -17,9 +17,9 @@ A few hours later we're headed back from the SF SPCA dog-less. There were lots o
 
 "I'm borrrrred," my daughter wails. She's going through a phase where she copies everything her big brother says in the voice he says it in. This bothers him even more.
 
-I'm tempted to give my son my phone but we've stopped doing that on drives. I think to myself, "He needs to figure out a way to keep himself entertained." As a kid I was pretty good at that. I could dream up games for my sister and I while my dad drove hundreds of miles on family vacations. Even when I was alone I'd challenge myself to figure out something interesting around me. I always managed to entertain myself for a bit.
+I'm tempted to give my son my phone but we've stopped doing that on drives. I think to myself, "He needs to figure out a way to keep himself entertained." As a kid I was pretty good at that. I could dream up games for my sister and I while my dad drove hundreds of miles on family vacations. Even when I was alone I'd challenge myself to figure out *something* interesting around me. I always managed to entertain myself for a bit.
 
-And then I thought, "Maybe I'll help…"
+And then I thought, "Maybe I should help…"
 
 "Hey Mark," I say, "How about this: how about I give you one dollar for every green car you see."
 
