@@ -43,6 +43,6 @@ Every stop light has me scanning cars and trying to will the light to change fas
 
 We're a block away. He sees a car that we don't. He gets mad that we didn't see it. We're half-way down our block. He's checking and double-checking every car on our block to get to fifteen. There's one. Fifteen green cars. I owe him $15.
 
-He was definitely not "borrrrred" for the rest of that drive. It did turn out to be a lot of fun for all of us, even though slightly terrifying for me when I realized there were five green cars (he saw three) stopped with us at a light.
+He was definitely not "borrrrred" for the rest of that drive. It did turn out to be a lot of fun for all of us, even though slightly terrifying for me when I realized there were five green cars stopped with us at a light.
 
 I realized later, while we came up from the garage laughing, that even when I think I'm teaching *him* how to keep himself entertained, I'm still doing it for myself as well. It's a pretty good skill to have!
