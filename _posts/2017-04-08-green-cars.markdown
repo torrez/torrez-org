@@ -14,6 +14,7 @@ I stash the green car conversation in the back of my mind as we drive. I think I
 A few hours later we're headed back from the SF SPCA dog-less. There were lots of cute pups and adult dogs but not one we wanted. We're about 20 minutes from home and we're all a little tired out from seeing so many dogs. I've put in about an hour of driving and I really hate driving. And the kids are BORED.
 
 "I'm borrrrred," my son wails from the backseat.
+
 "I'm borrrrred," my daughter wails. She's going through a phase where she copies everything her big brother says in the voice he says it in. This bothers him even more.
 
 I'm tempted to give my son my phone but we've stopped doing that on drives. I think to myself, "He needs to figure out a way to keep himself entertained." As a kid I was pretty good at that. I could dream up games for my sister and I while my dad drove hundreds of miles on family vacations. Even when I was alone I'd challenge myself to figure out something interesting around me. I always managed to entertain myself for a bit.
