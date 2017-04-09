@@ -25,7 +25,7 @@ And then I thought, "Maybe I should help…"
 
 Three bucks is a great deal to keep the kid entertained for almost a half hour. Heck, if he sees $5 worth of cars that'd mean he doubled his weekly allowance and that'd be cool for him. We've been giving him chores and work around the house and so far he has the ability to earn $5 a week.
 
-"OKAY!" He says, excited at the possibilities. He wasn't paying attention to the conversation earlier so he sounds like he expects  to make hundreds of dollars before we get home. We're surrounded by hundreds of cars, surely quite a few are green.
+"OKAY!" He says, excited at the possibilities. He wasn't paying attention to the conversation earlier so he sounds like he expects  to make hundreds of dollars before we get home. We're surrounded by hundreds of cars, surely quite a few will be green.
 
 Ten minutes later I realize I've made a huge mistake.
 
