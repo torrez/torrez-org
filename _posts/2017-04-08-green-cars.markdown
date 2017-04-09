@@ -29,7 +29,7 @@ Three bucks is a great deal to keep the kid entertained for almost a half hour. 
 
 Ten minutes later I realize I've made a huge mistake.
 
-There are so many green cars he's missing them. Amber is laughing each time he yells out that he sees another one.
+There are so many green cars around that he's missing them. Amber is laughing each time he yells out that he sees another one.
 
 "TEN! That's ten! ELEVEN—"
 
