@@ -1,5 +1,5 @@
 ---
-title: Where Have All the Green Cars Gone?
+title: Green Cars
 date: 2017-04-08 19:29:00 -07:00
 categories:
 - Home
