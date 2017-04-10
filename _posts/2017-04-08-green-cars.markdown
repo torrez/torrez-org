@@ -41,7 +41,7 @@ Every stop light has me scanning cars and trying to will the light to change fas
 
 "TWELVE! THIRTEEN! FOURTEEN!"
 
-My daughter, wanting to join in starts yelling numbers out too. "SEVEN! SEVEN! I SEE FIVE!"
+My daughter, wanting to join in, starts yelling numbers out too. "SEVEN! SEVEN! I SEE FIVE!"
 
 We're a block away. He sees a car that we don't. He gets mad that we didn't see it. We're half-way down our block. He's checking and double-checking every car on our block to get to fifteen. There's one. Fifteen green cars. I owe him $15.
 
