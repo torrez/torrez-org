@@ -41,6 +41,8 @@ Every stop light has me scanning cars and trying to will the light to change fas
 
 "TWELVE! THIRTEEN! FOURTEEN!"
 
+My daughter, wanting to join in starts yelling numbers out too. "SEVEN! SEVEN! I SEE FIVE!"
+
 We're a block away. He sees a car that we don't. He gets mad that we didn't see it. We're half-way down our block. He's checking and double-checking every car on our block to get to fifteen. There's one. Fifteen green cars. I owe him $15.
 
 He was definitely not "borrrrred" for the rest of that drive. It did turn out to be a lot of fun for all of us, even though slightly terrifying for me when I realized there were five green cars stopped with us at a light.
