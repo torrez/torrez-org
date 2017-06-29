@@ -2,7 +2,7 @@
 title: Bonking with Jelly Beans
 date: 2017-06-29 16:10:00 -07:00
 categories:
-- Bikes
+- bikes
 ---
 
 The term `bonking` is used among cyclists and in any type of endurance sport where your muscles have depleted their store of glycogen, the stored energy in your muscles to help them perform. It's when you hit a wall and you feel everything from weakness to headaches to nausea to a rapid heartbeat and more. It's not great. The technical term is `hypoglycemia` but people call it `bonking` because it's obviously a bit more fun to say.
