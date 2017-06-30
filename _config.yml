@@ -44,6 +44,6 @@ exclude:
 - ".tmp"
 kramdown:
   input: GFM
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-feed
