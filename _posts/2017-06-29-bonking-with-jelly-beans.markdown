@@ -55,4 +55,4 @@ My bonking salvation was in my mouth and I was not sure if I should continue to 
 
 I did keep chewing and I did keep swallowing. And I felt better after a few minutes.
 
-I relaxed with a quick shower and then sat on the couch, opened Amazon.com, and ordered a half pound bag of Haribo gummy bears.
+I relaxed with a quick shower and then sat on the couch, opened Amazon.com, and ordered a half-pound bag of [Haribo gummy bears](http://amzn.to/2tyhZot).
