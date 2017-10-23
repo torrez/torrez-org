@@ -1,6 +1,8 @@
 ---
 title: French Progress
 date: 2017-10-23 12:27:00 -07:00
+categories:
+- Travel
 ---
 
 A nice thing that happened last week was that I passed Duolingo’s 50% French Fluency level. I can’t say I’m remotely *fluent* in French but suddenly every French phrase and loan-word we use in English jumps out at me from around corners. 
